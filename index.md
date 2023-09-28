@@ -10,15 +10,28 @@ labels:
 ---
 
 ## Motivation
+Trasfer students
+Foreiign students
+incoming freshman 
+getting friends
+connect with people : anonymously
+separation between school adn personal soicalzation 
+
 
 ## Goals
-
-## Significant differences
+if there are hgih lactivty levels
+group chat
+profile section
+trees
+have access to the different groups (options)
 
 ## Usage
+add your screens here: (with screenshot and description)
 
 ## Installation
+`flutter run`
 
 ## Development Status
+https://github.com/orgs/ConnectUni/projects/1
 
 ## About Us
