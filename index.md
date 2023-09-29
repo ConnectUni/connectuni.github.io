@@ -40,12 +40,14 @@ https://github.com/orgs/ConnectUni/projects/1
 
 ## About Us
 
-Kenji Sanehira
+#### Kenji Sanehira
 
-Michelle Ho
+### Michelle Ho
 
-Raphael Bumanlag
+### Raphael Bumanlag
+
 <img width="200" alt="Raphael Headshot" src="images/IMG_2352 (2).JPG">
+
 Aloha! I am Raphael, and I am a senior studying for my B.S. in Computer Science. I am an aspiring software engineer and desire to work as a backend developer. I enjoy surfing, rollerblading, and weightlifting on my free time. I consider myself to be a very social student which is what drives me to develop a mobile app that enables other students, especially students who are less social or students in a new environment, to connect with other students in similar classes or interests!
 
-Jiahui Liao
+### Jiahui Liao
