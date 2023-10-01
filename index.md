@@ -26,7 +26,10 @@ profile section/avatar
 have access to the different groups (options)
 
 ## Usage
-add your screens here: (with screenshot and description)
+- <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at
+the bottom prompting users to add to their current list of groups. The page also is the first introduction to the applications AppBar as well as the Navbar at the
+bottom, which shows the user the groups, messages, and their own profile.
+![Issue004](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/3ea44ac0-3ef8-4c48-8d08-9d1c8f64d1eb)
 
 ## Installation
 Go to https://github.com/ConnectUni/connectuni, click on the green Code button, and click Open with GitHub Desktop.
@@ -40,7 +43,11 @@ https://github.com/orgs/ConnectUni/projects/1
 
 ## About Us
 
-#### Kenji Sanehira
+### Kenji Sanehira
+
+<img width="200" alt="Kenji Headshot" src="images/Pfp.jpg">
+
+Hey! I am Kenji Sanehira and I am currently a Computer Science senior at the University of Hawaii at Manoa. I would like to apply my knowledge from school related to Computer Science into the workforce. I am also the stage manager for the international-tour of the musical "Peace on Your Wings". In my free time, I enjoy 3D printing, going to the gym, and playing video games. Learning about mobile application development for ConnectUni has been a really fun and educational experience that I hope to apply skills from in the future.
 
 ### Michelle Ho
 
