@@ -31,6 +31,11 @@ the bottom prompting users to add to their current list of groups. The page also
 bottom, which shows the user the groups, messages, and their own profile.
 ![Issue004](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/3ea44ac0-3ef8-4c48-8d08-9d1c8f64d1eb)
 
+- <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping.
+![issue007](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/6827e3a9-3bd8-4645-ab98-454701c8d160)
+
+
+
 ## Installation
 Go to https://github.com/ConnectUni/connectuni, click on the green Code button, and click Open with GitHub Desktop.
 
