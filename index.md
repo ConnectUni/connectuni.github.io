@@ -34,6 +34,9 @@ bottom, which shows the user the groups, messages, and their own profile.
 - <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping.
 ![issue007](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/6827e3a9-3bd8-4645-ab98-454701c8d160)
 
+- <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application.
+![issue12](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/6c5fee41-7656-4218-9980-34d529df0bf1)
+
 
 
 ## Installation
