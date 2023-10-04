@@ -1,0 +1,10 @@
+title: ConnectUni
+description: Organization page for ConnectUni
+remote_theme: pages-themes/minimal@v0.2.0
+google_analytics:
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/ConnectUni/connectuni
+plugins:
+- jekyll-remote-theme
