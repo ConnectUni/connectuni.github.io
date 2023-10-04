@@ -32,6 +32,11 @@ bottom, which shows the user the groups, messages, and their own profile.
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application.
 <img width="300" alt="Settings & Privacy" src="images/settings_privacy.png">
 
+- <b>Direct Messages Page: </b> After selecting the inbox on the group info page, the user is led to their direct messages which provides a list of people recently contacted.
+<img width="300" alt="DMpage" src="images/dmscreen.png">
+
+- <b>Message Details Page: </b>When the user taps on a person from their list of contacts, they are led to their chat history.
+<img width="300" alt="message details page" src="images/dmdetails.png">
 
 ## Installation
 Go to https://github.com/ConnectUni/connectuni, click on the green Code button, and click Open with GitHub Desktop.
@@ -60,6 +65,6 @@ Hey! I am Kenji Sanehira and I am currently a Computer Science senior at the Uni
 Aloha! I am Raphael, and I am a senior studying for my B.S. in Computer Science. I am an aspiring software engineer and desire to work as a backend developer. I enjoy surfing, rollerblading, and weightlifting on my free time. I consider myself to be a very social student which is what drives me to develop a mobile app that enables other students, especially students who are less social or students in a new environment, to connect with other students in similar classes or interests!
 
 ### Jiahui Liao
-<img width="200" alt="Jia Headshot" src="images/jiapfp.jpg">
+<img width="200" alt="Jia Headshot" src="images/jiapfp.JPG">
 
 Hi! I am Jia, a senior studying Computer Science at University of Hawaii at Manoa. I am also the coding officer for the Game Development club as well as marketing manager for the Academy of Computational Machinery (ACM) at UHM. I like to draw, crochet, and play video games in my free time. I hope to learn skills that I can apply in the future and have fun doing it. By working on ConnectUni, I hope to support students to build a fun and lasting community for themselves.
