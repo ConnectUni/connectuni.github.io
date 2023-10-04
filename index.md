@@ -18,14 +18,13 @@ have access to the different groups (options)
 - <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at
 the bottom prompting users to add to their current list of groups. The page also is the first introduction to the applications AppBar as well as the Navbar at the
 bottom, which shows the user the groups, messages, and their own profile.
-![Issue004](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/3ea44ac0-3ef8-4c48-8d08-9d1c8f64d1eb)
+<img width="300" alt="My Groups" src="images/mygroups.png">
 
 - <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping.
-![issue007](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/6827e3a9-3bd8-4645-ab98-454701c8d160)
+<img width="300" alt="Group Info" src="images/groupinfo.png">
 
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application.
-![issue12](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/6c5fee41-7656-4218-9980-34d529df0bf1)
-
+<img width="300" alt="Settings & Privacy" src="images/settings_privacy.png">
 
 
 ## Installation
