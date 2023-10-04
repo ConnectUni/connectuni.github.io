@@ -36,7 +36,7 @@ bottom, which shows the user the groups, messages, and their own profile.
 <img width="300" alt="DMpage" src="images/dmscreen.png">
 
 - <b>Message Details Page: </b>When the user taps on a person from their list of contacts, they are led to their chat history.
-<img width="300" alt="message details page" src="images/dmdetails.png">
+<img width="300" alt="message details page" src="images/dmdetailspage.png">
 
 ## Installation
 Go to https://github.com/ConnectUni/connectuni, click on the green Code button, and click Open with GitHub Desktop.
