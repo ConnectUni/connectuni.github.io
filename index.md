@@ -24,9 +24,11 @@ bottom, which shows the user the groups, messages, and their own profile.
 <img width="300" alt="Group Info" src="images/groupinfo.png">
 
 - <b>Search Groups Page:</b> A user can search for groups to join and can filter certain Clubs/Interests/Majors/etc. in which groups are categorized in.
+
 <img width="300" alt="Search for groups" src="images/searchgroups.png">
 
 - <b>Search People Page:</b> A user can search for other individuals to connect with and can filter by Clubs/Interests/Majors/etc. in which individuals are apart of.
+
 <img width="300" alt="Search for people" src="images/searchpeople.png">
 
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application.
