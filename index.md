@@ -39,7 +39,7 @@ bottom, which shows the user the groups, messages, and their own profile.
 
 - <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their gallery, and the groups they are currently a part of. If they hit the settings button in the appbar, they will then go to the settings page listed below.
 
-
+<img width="300" alt="Profile page" src="images/Issue010.png" align="center">
 
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application.
 
