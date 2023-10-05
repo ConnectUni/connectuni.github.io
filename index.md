@@ -88,7 +88,7 @@ https://github.com/orgs/ConnectUni/projects/1
 Hey! I am Kenji Sanehira and I am currently a Computer Science senior at the University of Hawaii at Manoa. I would like to apply my knowledge from school related to Computer Science into the workforce. I am also the stage manager for the international-tour of the musical "Peace on Your Wings". In my free time, I enjoy 3D printing, going to the gym, and playing video games. Learning about mobile application development for ConnectUni has been a really fun and educational experience that I hope to apply skills from in the future.
 
 ### Michelle Ho
-<img width="200" alt="Michelle Headshot" src="images/michelle.JPG">
+<img width="200" alt="Michelle Headshot" src="images/michelle.png">
 Hi everyone! My name is Michelle and I'm currently a senior Computer Science student pursuing my B.S. degree. I'd describe myself as a competitive person who loves to stay active. Whether it be sports or puzzles, I find myself competing with family and friends all of the time. With that said, I welcome all sorts of challenges one may have! I'm glad to be a part of a friendly team working together on the ConnectUni project. I know that this project will prove to be worth it when we're all standing proud, presenting our new app.
 
 ### Raphael Bumanlag
