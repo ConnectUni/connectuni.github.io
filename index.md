@@ -6,9 +6,9 @@ In order to connect different university students with each other, our app provi
 
 Ideally, our app will have an active user base with people in the University community being actively involved in the creation, management, and interaction of their individual groups and activities. The amount of users active on the app will hopefully reflect the increase of comfort and the decrease in intimidation of connecting within the student demographic.
 
-We also would like to implement a feature that allows the students within a certain group or community to bond with other members of a shared grouping. On top of this, we would like to maintain user retention on the app by motivating them to keep logging on almost daily. Nothing builds comradery faster than having a shared goal. Group chat trees -> encourage daily interaction.
+We also would like to implement a feature that allows the students within a certain group or community to bond with other members of a shared grouping. On top of this, we would like to maintain user retention on the app by motivating them to keep logging on almost daily. Nothing builds comradery faster than having a shared goal. Each group chat will be able to take care and raise a plant into a tree by watering it every day. 
 
-In future implementations of our application, we aim to obtain certain members of different groups that serve as potential “ambassadors” or “leaders” (PARTY PEOPLE) of their groups in order to help manage and encourage members of their communities to help. Having a leadership role also can help to keep chaotic members out.
+In future implementations of our application, we aim to obtain certain members of different groups that serve as potential “ambassadors” or “leaders” of their groups in order to help manage and encourage members of their communities to help. Having a leadership role also can help to moderate happenings within the group.
 
 
 profile section/avatar
@@ -24,10 +24,10 @@ bottom, which shows the user the groups, messages, and their own profile.
 <img width="300" alt="Group Info" src="images/groupinfo.png">
 
 - <b>Search Groups Page: </b> A user can search for groups to join and can filter certain Clubs/Interests/Majors/etc. in which groups are categorized in.
-<img width="300" alt="Search for groups" src="images/searchgroups.png" style="float: left">
+<img width="300" alt="Search for groups" src="images/searchgroups.png">
 
 - <b>Search People Page: </b> A user can search for other individuals to connect with and can filter by Clubs/Interests/Majors/etc. in which individuals are apart of.
-<img width="300" alt="Search for people" src="images/searchpeople.png" style="float: left">
+<img width="300" alt="Search for people" src="images/searchpeople.png">
 
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application.
 <img width="300" alt="Settings & Privacy" src="images/settings_privacy.png">
