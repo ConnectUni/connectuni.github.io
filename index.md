@@ -33,6 +33,10 @@ bottom, which shows the user the groups, messages, and their own profile.
 
 <img width="300" alt="My Groups" src="images/mygroups.png" align=center>
 
+- <b>Group Chat Page: </b> A user can select a chat from their joined groups which they can then send and recieve messages from other members of that group.
+
+<img width="300" alt="Group Chat Screen" src="images/groupchatscreen.png" align=center>
+
 - <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping.
 
 <img width="300" alt="Group Info" src="images/groupinfo.png" align="center">
@@ -52,6 +56,10 @@ bottom, which shows the user the groups, messages, and their own profile.
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application.
 
 <img width="300" alt="Settings & Privacy" src="images/settings_privacy.png" align="center">
+
+- <b>Friends List Page: </b> This page lists the user's current friends. They can tap to direct message them from this page.
+
+<img width="300" alt="Friends List" src="images/friendslist.png" align="center">
 
 - <b>Direct Messages Page: </b> After selecting the inbox on the group info page, the user is led to their direct messages which provides a list of people recently contacted.
 
