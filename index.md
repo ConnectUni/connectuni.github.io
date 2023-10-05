@@ -19,31 +19,31 @@ have access to the different groups (options)
 the bottom prompting users to add to their current list of groups. The page also is the first introduction to the applications AppBar as well as the Navbar at the
 bottom, which shows the user the groups, messages, and their own profile.
 
-<img width="300" alt="My Groups" src="images/mygroups.png">
+<img width="300" alt="My Groups" src="images/mygroups.png" align=center>
 
 - <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping.
 
-<img width="300" alt="Group Info" src="images/groupinfo.png">
+<img width="300" alt="Group Info" src="images/groupinfo.png" align=center>
 
 - <b>Search Groups Page: </b> A user can search for groups to join and can filter certain Clubs/Interests/Majors/etc. in which groups are categorized in.
 
-<img width="300" alt="Search for groups" src="images/searchgroups.png">
+<img width="300" alt="Search for groups" src="images/searchgroups.png" align=center>
 
 - <b>Search People Page: </b> A user can search for other individuals to connect with and can filter by Clubs/Interests/Majors/etc. in which individuals are apart of.
 
-<img width="300" alt="Search for people" src="images/searchpeople.png">
+<img width="300" alt="Search for people" src="images/searchpeople.png" align=center>
 
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application.
 
-<img width="300" alt="Settings & Privacy" src="images/settings_privacy.png">
+<img width="300" alt="Settings & Privacy" src="images/settings_privacy.png" align=center>
 
 - <b>Direct Messages Page: </b> After selecting the inbox on the group info page, the user is led to their direct messages which provides a list of people recently contacted.
 
-<img width="300" alt="DMpage" src="images/dmscreen.png">
+<img width="300" alt="DMpage" src="images/dmscreen.png" align=center>
 
 - <b>Message Details Page: </b>When the user taps on a person from their list of contacts, they are led to their chat history.
 
-<img width="300" alt="message details page" src="images/dmdetailscreen.png">
+<img width="300" alt="message details page" src="images/dmdetailscreen.png" align=center>
 
 ## Installation
 Go to https://github.com/ConnectUni/connectuni, click on the green Code button, and click Open with GitHub Desktop.
