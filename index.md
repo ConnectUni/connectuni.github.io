@@ -19,6 +19,14 @@ Below, you can find the different pages that make up our current application imp
 Here is the working logo:
 ![TEST_LOGO](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/ef3200c7-1164-453d-91d4-9d4726a2bc70)
 
+- <b>Login Page: </b> When the user opens the app, the login page will be the first page seen. This is where current users will put in their UH email and password used to open their account. As of now, must enter "correct" as the username and "pass" as the password fields in order to access the Home page with the "Login" button. Has a "Sign Up" button that'll prompt the user to register for an account on a separate screen.
+
+<img width="300" alt="Login Page" src="images/login_connectuni.png" align=center>
+
+- <b>Sign Up Page: </b> From the Login page ("Sign Up" button), because we use Cupertino, enables user a "back arrow" that'll go back to the Login page. There are four text fields present, each must be filled out before an account can be made. Only when all fields are filled and that the two password text fields match, will it switch to the user's Profile screen.
+
+<img width="300" alt="Sign Up Page" src="images/signup_connectuni.png" align=center>
+
 - <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at
 the bottom prompting users to add to their current list of groups. The page also is the first introduction to the applications AppBar as well as the Navbar at the
 bottom, which shows the user the groups, messages, and their own profile.
@@ -72,6 +80,8 @@ https://github.com/orgs/ConnectUni/projects/1
 Hey! I am Kenji Sanehira and I am currently a Computer Science senior at the University of Hawaii at Manoa. I would like to apply my knowledge from school related to Computer Science into the workforce. I am also the stage manager for the international-tour of the musical "Peace on Your Wings". In my free time, I enjoy 3D printing, going to the gym, and playing video games. Learning about mobile application development for ConnectUni has been a really fun and educational experience that I hope to apply skills from in the future.
 
 ### Michelle Ho
+<img width="200" alt="Michelle Headshot" src="images/michelle.JPG">
+Hi everyone! My name is Michelle and I'm currently a senior Computer Science student pursuing my B.S. degree. I'd describe myself as a competitive person who loves to stay active. Whether it be sports or puzzles, I find myself competing with family and friends all of the time. With that said, I welcome all sorts of challenges one may have! I'm glad to be a part of a friendly team working together on the ConnectUni project. I know that this project will prove to be worth it when we're all standing proud, presenting our new app.
 
 ### Raphael Bumanlag
 
