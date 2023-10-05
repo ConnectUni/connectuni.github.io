@@ -15,6 +15,10 @@ profile section/avatar
 have access to the different groups (options)
 
 ## Usage
+Below, you can find the different pages that make up our current application implementation of ConnectUni.
+Here is the working logo:
+![TEST_LOGO](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/ef3200c7-1164-453d-91d4-9d4726a2bc70)
+
 - <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at
 the bottom prompting users to add to their current list of groups. The page also is the first introduction to the applications AppBar as well as the Navbar at the
 bottom, which shows the user the groups, messages, and their own profile.
@@ -32,6 +36,10 @@ bottom, which shows the user the groups, messages, and their own profile.
 - <b>Search People Page: </b> A user can search for other individuals to connect with and can filter by Clubs/Interests/Majors/etc. in which individuals are apart of.
 
 <img width="300" alt="Search for people" src="images/searchpeople.png" align="center">
+
+- <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their gallery, and the groups they are currently a part of. If they hit the settings button in the appbar, they will then go to the settings page listed below.
+
+
 
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application.
 
