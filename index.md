@@ -59,7 +59,7 @@ bottom, which shows the user the groups, messages, and their own profile.
 
 - <b>Friends List Page: </b> This page lists the user's current friends. They can tap to direct message them from this page.
 
-<img width="300" alt="Friends List" src="images/friendslist.png" align="center">
+<img width="300" alt="Friends List" src="images/friendslist.PNG" align="center">
 
 - <b>Direct Messages Page: </b> After selecting the inbox on the group info page, the user is led to their direct messages which provides a list of people recently contacted.
 
