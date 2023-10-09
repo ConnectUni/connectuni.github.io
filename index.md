@@ -70,14 +70,14 @@ bottom, which shows the user the groups, messages, and their own profile.
 <img width="300" alt="message details page" src="images/dmdetailscreen.png" align="center">
 
 ## Installation
-Go to https://github.com/ConnectUni/connectuni, click on the green Code button, and click Open with GitHub Desktop.
+Go to [](https://github.com/ConnectUni/connectuni), click on the green Code button, and click Open with GitHub Desktop.
 
 Next, open IntelliJ then open a new project and select connectuni from your files.
 Finally, open the terminal and type:
 `flutter run`
 
 ## Development Status
-https://github.com/orgs/ConnectUni/projects/1
+[Click here to view the ConnectUni Project Board!](https://github.com/orgs/ConnectUni/projects/1)
 
 ## About Us
 
