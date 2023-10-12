@@ -49,6 +49,10 @@ bottom, which shows the user the groups, messages, and their own profile.
 
 <img width="300" alt="Search for people" src="images/searchpeople.png" align="center">
 
+- <b>Search Events Page: </b> A user can search for events to attend and can filter by Clubs/Interests/Majors/etc. 
+
+<img width="300" alt="Search for events" src="images/searchevents.png" alight="center">
+
 - <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their gallery, and the groups they are currently a part of. If they hit the settings button in the appbar, they will then go to the settings page listed below.
 
 <img width="300" alt="Profile page" src="images/Issue010.png" align="center">
@@ -77,7 +81,7 @@ Finally, open the terminal and type:
 `flutter run`
 
 ## Development Status
-[Click here to view the ConnectUni Project Board!](https://github.com/orgs/ConnectUni/projects/1)
+[Click here to view the ConnectUni Project Board!](https://github.com/orgs/ConnectUni/projects/1/views/7)
 
 ## About Us
 
