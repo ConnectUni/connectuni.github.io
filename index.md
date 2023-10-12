@@ -23,13 +23,11 @@ Here is the working logo:
 
 <img width="300" alt="Login Page" src="images/New Login.PNG" align=center>
 
-- <b>Sign Up Page: </b> From the Login page ("Sign Up" button), because we use Cupertino, enables user a "back arrow" that'll go back to the Login page. There are four text fields present, each must be filled out before an account can be made. Only when all fields are filled and that the two password text fields match, will it switch to the user's Profile screen.
+- <b>Sign Up Page: </b> From the Login page (via the "Sign Up" button), the user is able to register for a new account. There are four text fields present, each must be filled out before an account can be made. Only when all fields are filled and the two password text fields match, will it switch to the user's Home screen. Still working on the Create Profile screen, which is the screen we intend to build next. There are three buttons available to the user: Sign Up, Clear, and Back. The Back button will go back to the Login page, the Clear button will clear all text fields, and the Sign Up button should prompt the user to a Create Profile page.
 
 <img width="300" alt="Sign Up Page" src="images/signup_connectuni.png" align=center>
 
-- <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at
-the bottom prompting users to add to their current list of groups. The page also is the first introduction to the applications AppBar as well as the Navbar at the
-bottom, which shows the user the groups, messages, event calendar, and their own profile.
+- <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at the bottom prompting users to add to their current list of groups. The page also is the first introduction to the application AppBar as well as the Navbar at the bottom, which shows the user the groups, messages, event calendar, and their own profile.
 
 <img width="300" alt="My Groups" src="images/mygroups.png" align=center>
 
