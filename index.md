@@ -17,11 +17,13 @@ have access to the different groups (options)
 ## Usage
 Below, you can find the different pages that make up our current application implementation of ConnectUni.
 Here is the working logo:
-![TEST_LOGO](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/ef3200c7-1164-453d-91d4-9d4726a2bc70)
+![LOGO](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/207a847e-8e82-4ef5-957a-235a7530b9aa)
+
+- <b>Splash Screen: </b> Upon clicking on the app, the user is presented with a splash screen of our logo, which hopes to combine the idea of connecting university students. Connect (USB Cable) and Uni (The graduation cap).
+--TODO: SPLASH IMAGE
 
 - <b>Login Page: </b> When the user opens the app, the login page will be the first page seen. This is where current users will put in their UH email and password used to open their account. As of now, must enter "correct" as the username and "pass" as the password fields in order to access the Home page with the "Login" button. Has a "Sign Up" button that'll prompt the user to register for an account on a separate screen.
-
-<img width="300" alt="Login Page" src="images/login_connectuni.png" align=center>
+--TODO: NEW LOGIN IMAGE
 
 - <b>Sign Up Page: </b> From the Login page ("Sign Up" button), because we use Cupertino, enables user a "back arrow" that'll go back to the Login page. There are four text fields present, each must be filled out before an account can be made. Only when all fields are filled and that the two password text fields match, will it switch to the user's Profile screen.
 
@@ -29,7 +31,7 @@ Here is the working logo:
 
 - <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at
 the bottom prompting users to add to their current list of groups. The page also is the first introduction to the applications AppBar as well as the Navbar at the
-bottom, which shows the user the groups, messages, and their own profile.
+bottom, which shows the user the groups, messages, event calendar, and their own profile.
 
 <img width="300" alt="My Groups" src="images/mygroups.png" align=center>
 
@@ -39,7 +41,7 @@ bottom, which shows the user the groups, messages, and their own profile.
 
 - <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping.
 
-<img width="300" alt="Group Info" src="images/groupinfo.png" align="center">
+--TODO: NEW GROUP INFO PAGE IMAGE
 
 - <b>Search Groups Page: </b> A user can search for groups to join and can filter certain Clubs/Interests/Majors/etc. in which groups are categorized in.
 
@@ -53,9 +55,12 @@ bottom, which shows the user the groups, messages, and their own profile.
 
 <img width="300" alt="Search for events" src="images/searchevents.png" alight="center">
 
-- <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their gallery, and the groups they are currently a part of. If they hit the settings button in the appbar, they will then go to the settings page listed below.
+- <b>Events Calendar Page: </b> This page displays a calendar to the user which shows the different events that our app is able to host. The user can click on different days in order to get to different events. Eventually we will be able to sort using the sort prompt at the top of the page.
+-- TODO: IMPLEMENT CALENDAR PROFILE
 
-<img width="300" alt="Profile page" src="images/Issue010.png" align="center">
+- <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their interests, and the groups they are currently a part of. If they hit the settings button in the appbar, they will then go to the settings page listed below.
+
+-- TODO: NEW PROFILE PICTURE PAGE IMAGE
 
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application.
 
