@@ -19,11 +19,11 @@ Here is the working logo:
   
 <img width="300" alt="Splash Screen" src="images/Splash Screen.PNG" align=center>
 
-- <b>Login Page: </b> When the user opens the app, the login page will be the first page seen. This is where current users will put in their UH email and password used to open their account. As of now, must enter "correct" as the username and "pass" as the password fields in order to access the Home page with the "Login" button. Has a "Sign Up" button that'll prompt the user to register for an account on a separate screen.
+- <b>Login Page: </b> When the user opens the app, the login page will be the first page seen. This is where current users will put in their UH email and password used to open their account. After Phase 3, the email provided must match an email in our mock UserList database. This is done by using the Form Builder which enables one to check the current state that the field is at. Implemented Riverpod as a means to update the whole app after login. For example, the current user profile will change based on the email provided when Logging in. Has a "Sign Up" button that'll prompt the user to register for an account on a separate screen.
 
 <img width="300" alt="Login Page" src="images/login_connectuni.png" align=center>
 
-- <b>Sign Up Page: </b> From the Login page (via the "Sign Up" button), the user is able to register for a new account. There are four text fields present, each must be filled out before an account can be made. Only when all fields are filled and the two password text fields match, will it switch to the user's Home screen. Still working on the Create Profile screen, which is the screen we intend to build next. There are three buttons available to the user: Sign Up, Clear, and Back. The Back button will go back to the Login page, the Clear button will clear all text fields, and the Sign Up button should prompt the user to a Create Profile page.
+- <b>Sign Up Page: </b> From the Login page (via the "Sign Up" button), the user is able to register for a new account. There are four text fields present, each must be filled out before an account can be made. Only when all fields are filled and the two password text fields match, will it switch to the user's Home screen. There are three buttons available to the user: Sign Up, Clear, and Back. The Back button will go back to the Login page, the Clear button will clear all text fields, and the Sign Up button should prompt the user to a Create Profile page.
 
 <img width="300" alt="Sign Up Page" src="images/signup_connectuni.png" align=center>
 
