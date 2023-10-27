@@ -39,7 +39,7 @@ Here is the working logo:
 
 <img width="300" alt="Group Info Join" src="images/GInfo Join.PNG" align=center>
 
-<img width="300" alt="Group Info Leave" src="images/GroupInfe.PNG" align=center>
+<img width="300" alt="Group Info Leave" src="images/GroupInfoMember.PNG" align=center>
 
 - <b>Edit Group Page: </b> If a user is a member of a group, they have the option to edit group information using a form. The form is pre-filled with the change-able aspects of the group. When submitted, the group information is updated in the database. There is also a reset buttton that resets all form fields to empty.
 
@@ -69,9 +69,15 @@ Here is the working logo:
 
 <img width="300" alt="Profile Page" src="images/Example Profile 1.PNG" align=center>
 
-- <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application.
+- <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application. As of now, the settings page has a working dark mode switch and a working logout button.
 
-<img width="300" alt="Settings & Privacy" src="images/settings_privacy.png" align="center">
+<img width="300" alt="Settings & Privacy" src="images/SettingsNew.PNG" align="center">
+
+- <b>Dark Mode: </b> Our application implements a work-in-progress dark mode in which the user is able to change the preferences of their application theme within the settings page. The application will then invert colors to a different theme. Right now we have the actual functionality of the dark mode working, but the theme is still not fully implemented.
+
+<img width="300" alt="Dark Mode Example 1" src="images/DarkMode.PNG" align="center">
+
+<img width="300" alt="Dark Mode Example 2" src="images/DarkMode2.PNG" align="center">
 
 - <b>Friends List Page: </b> This page lists the user's current friends. They can tap to direct message them from this page.
 
