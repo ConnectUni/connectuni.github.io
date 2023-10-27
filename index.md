@@ -63,7 +63,7 @@ Here is the working logo:
 
 - <b>Search Events Page: </b> A user can search for events to attend and can filter by Clubs/Interests/Majors/etc. 
 
-<img width="300" alt="Search for events" src="images/searchevents.png" align="center">
+<img width="300" alt="Search for events" src="images/SearchEvents1.png" align="center">
 
 - <b>Create Event Page: </b> Through the search events page, you can navigate to add an event.
 
