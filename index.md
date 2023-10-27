@@ -35,11 +35,13 @@ Here is the working logo:
 
 <img width="300" alt="Group Chat Screen" src="images/groupchatscreen.png" align=center>
 
-- <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping. At the bottom there will be either a group join or a group leave button depending on whether or not the user is in the group.
+- <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping. At the bottom there will be either a group join or a group leave button depending on whether or not the user is in the group. If the user is a member of a group, they are also given access to an edit button, which is described below.
 
 <img width="300" alt="Group Info Join" src="images/GInfo Join.PNG" align=center>
 
 <img width="300" alt="Group Info Leave" src="images/GInfo Leave.PNG" align=center>
+
+- <b>Edit Group Page: </b> If a user is a member of a group, they have the option to edit group information using a form. The form is pre-filled with the change-able aspects of the group. When submitted, the group information is updated in the database. There is also a reset buttton that resets all form fields to empty.
 
 - <b>Search Groups Page: </b> A user can search for groups to join and can filter certain Clubs/Interests/Majors/etc. in which groups are categorized in.
 
