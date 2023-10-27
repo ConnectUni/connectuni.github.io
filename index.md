@@ -27,6 +27,10 @@ Here is the working logo:
 
 <img width="300" alt="Sign Up Page" src="images/signup_connectuni.png" align=center>
 
+- <b>Create Profile Page: </b> After Signing up, the user is prompted to set up their profile with a username, and selection fields for major, graduation date, interests, as well as groups from currently available groups.
+
+<img width="300" alt="Create Profile Page" src="images/CreateProfile1.png" align=center> <img width="300" alt="Create Profile Page" src="images/CreateProfile2.png" align=center>
+
 - <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at the bottom prompting users to add to their current list of groups. The page also is the first introduction to the application AppBar as well as the Navbar at the bottom, which shows the user the groups, messages, event calendar, and their own profile.
 
 <img width="300" alt="My Groups" src="images/mygroups.png" align=center>
@@ -59,10 +63,14 @@ Here is the working logo:
 
 - <b>Search Events Page: </b> A user can search for events to attend and can filter by Clubs/Interests/Majors/etc. 
 
-<img width="300" alt="Search for events" src="images/searchevents.png" alight="center">
+<img width="300" alt="Search for events" src="images/searchevents.png" align="center">
+
+- <b>Create Event Page: </b> Through the search events page, you can navigate to add an event.
+
+<img width="300" alt="Add Event" src="images/CreateEvent.png" align="center">
 
 - <b>Events Calendar Page: </b> This page displays a calendar to the user which shows the different events that our app is able to host. The user can click on different days in order to get to different events. Eventually we will be able to sort using the sort prompt at the top of the page.
-  
+
 <img width="300" alt="Events Calendar" src="images/Calendar.PNG" align=center>
 
 - <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their interests, and the groups they are currently a part of. If they hit the settings button in the appbar, they will then go to the settings page listed below.
