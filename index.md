@@ -39,13 +39,19 @@ Here is the working logo:
 
 <img width="300" alt="Group Info Join" src="images/GInfo Join.PNG" align=center>
 
-<img width="300" alt="Group Info Leave" src="images/GInfo Leave.PNG" align=center>
+<img width="300" alt="Group Info Leave" src="images/GroupInfe.PNG" align=center>
 
 - <b>Edit Group Page: </b> If a user is a member of a group, they have the option to edit group information using a form. The form is pre-filled with the change-able aspects of the group. When submitted, the group information is updated in the database. There is also a reset buttton that resets all form fields to empty.
 
-- <b>Search Groups Page: </b> A user can search for groups to join and can filter certain Clubs/Interests/Majors/etc. in which groups are categorized in.
+<img width="300" alt="Edit Group Page" src="images/EditGroup.PNG" align=center>
 
-<img width="300" alt="Search for groups" src="images/searchgroups.png" align="center">
+- <b>Add Group Page: </b> There is also an add group page in which a user is able to create a group in the event that there isn't one made for their intended use already. The fields for this are empty with some placeholder information to guide the user to filling out the correct information. This can be accessed from the search groups page (see below) and also allows the user to refresh the page.
+
+<img width="300" alt="Create Group Page" src="images/AddGroup.PNG" align=center>
+  
+- <b>Search Groups Page: </b> A user can search for groups to join and can filter certain Clubs/Interests/Majors/etc. in which groups are categorized in. At the bottom of this page is a section in which the user is able to create a group (see the above section).
+
+<img width="300" alt="Search for groups" src="images/SearchForGroups.PNG" align="center">
 
 - <b>Search People Page: </b> A user can search for other individuals to connect with and can filter by Clubs/Interests/Majors/etc. in which individuals are apart of.
 
