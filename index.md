@@ -30,7 +30,7 @@ Here is the working logo:
 
 - <b>Create Profile Page: </b> After Signing up, the user is prompted to set up their profile with a username, and selection fields for major, graduation date, interests, as well as groups from currently available groups.
 
-<img width="300" alt="Create Profile Page" src="images/CreateProfile.png" align=center>
+<img width="300" alt="Create Profile Page" src="images/createprofile.png" align=center>
 
 - <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at the bottom prompting users to add to their current list of groups. The page also is the first introduction to the application AppBar as well as the Navbar at the bottom, which shows the user the groups, messages, event calendar, and their own profile.
 
@@ -42,9 +42,9 @@ Here is the working logo:
 
 - <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping. At the bottom there will be either a group join or a group leave button depending on whether or not the user is in the group. If the user is a member of a group, they are also given access to an edit button, which is described below.
 
-<img width="300" alt="Group Info Join" src="images/groupinfo.PNG" align=center>
+<img width="300" alt="Group Info Join" src="images/groupinfo.png" align=center>
 
-<img width="300" alt="Group Info Leave" src="images/groupinfo2.PNG" align=center>
+<img width="300" alt="Group Info Leave" src="images/groupinfo2.png" align=center>
 
 - <b>Edit Group Page: </b> If a user is a member of a group, they have the option to edit group information using a form. The form is pre-filled with the change-able aspects of the group. When submitted, the group information is updated in the database. There is also a reset buttton that resets all form fields to empty.
 
@@ -61,11 +61,12 @@ Here is the working logo:
 
 - <b>Search People Page: </b> A user can search for other individuals to connect with and can filter by Clubs/Interests/Majors/etc. in which individuals are apart of.
 
-<img width="300" alt="Search for people" src="images/searchpeople.png" align="center">
+<img width="300" alt="Search for people" src="images/searchpeople.png" align="center"> <img width="300" alt="Other User" src="images/otheruser.png" align="center"> 
+
 
 - <b>Search Events Page: </b> A user can search for events to attend and can filter by Clubs/Interests/Majors/etc. 
 
-<img width="300" alt="Search for events" src="images/SearchEvents.png" align="center">
+<img width="300" alt="Search for events" src="images/searchevents.png" align="center">
 
 
 - <b>Create Event Page: </b> Through the search events page, you can navigate to add an event.
@@ -76,9 +77,9 @@ Here is the working logo:
 
 <img width="300" alt="Events Calendar" src="images/eventcalendar.png" align=center>
 
-- <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their interests, and the groups they are currently a part of. If they hit the settings button in the appbar, they will then go to the settings page listed below.
+- <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their interests, and the groups they are currently a part of. They are able to edit their profile information from this page. If they hit the settings button in the appbar, they will then go to the settings page listed below.
 
-<img width="300" alt="Profile Page" src="images/otheruser.png" align=center>
+<img width="300" alt="Profile Page" src="images/userprofile.png" align=center> <img width="300" alt="Profile Page" src="images/editinterests.png" align=center> <img width="300" alt="Profile Page" src="images/editprofile.png" align=center>
 
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application. As of now, the settings page has a working dark mode switch and a working logout button.
 
