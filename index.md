@@ -42,9 +42,9 @@ Here is the working logo:
 
 - <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping. At the bottom there will be either a group join or a group leave button depending on whether or not the user is in the group. If the user is a member of a group, they are also given access to an edit button, which is described below.
 
-<img width="300" alt="Group Info Join" src="images/GInfo Join.PNG" align=center>
+<img width="300" alt="Group Info Join" src="images/groupinfo.PNG" align=center>
 
-<img width="300" alt="Group Info Leave" src="images/GroupInfoMember.PNG" align=center>
+<img width="300" alt="Group Info Leave" src="images/groupinfo2.PNG" align=center>
 
 - <b>Edit Group Page: </b> If a user is a member of a group, they have the option to edit group information using a form. The form is pre-filled with the change-able aspects of the group. When submitted, the group information is updated in the database. There is also a reset buttton that resets all form fields to empty.
 
@@ -56,7 +56,8 @@ Here is the working logo:
   
 - <b>Search Groups Page: </b> A user can search for groups to join and can filter certain Clubs/Interests/Majors/etc. in which groups are categorized in. At the bottom of this page is a section in which the user is able to create a group (see the above section).
 
-<img width="300" alt="Search for groups" src="images/SearchForGroups.PNG" align="center">
+<img width="300" alt="Search for groups" src="images/searchgroups.png" align="center"> <img width="300" alt="Search for groups" src="images/filtergroup.png" align="center"> 
+
 
 - <b>Search People Page: </b> A user can search for other individuals to connect with and can filter by Clubs/Interests/Majors/etc. in which individuals are apart of.
 
@@ -64,19 +65,20 @@ Here is the working logo:
 
 - <b>Search Events Page: </b> A user can search for events to attend and can filter by Clubs/Interests/Majors/etc. 
 
-<img width="300" alt="Search for events" src="images/SearchEvents1.png" align="center">
+<img width="300" alt="Search for events" src="images/SearchEvents.png" align="center">
+
 
 - <b>Create Event Page: </b> Through the search events page, you can navigate to add an event.
 
-<img width="300" alt="Add Event" src="images/CreateEvent.png" align="center">
+<img width="300" alt="Add Event" src="images/addevent.png" align="center">
 
 - <b>Events Calendar Page: </b> This page displays a calendar to the user which shows the different events that our app is able to host. The user can click on different days in order to get to different events. Eventually we will be able to sort using the sort prompt at the top of the page.
 
-<img width="300" alt="Events Calendar" src="images/Calendar.PNG" align=center>
+<img width="300" alt="Events Calendar" src="images/eventcalendar.png" align=center>
 
 - <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their interests, and the groups they are currently a part of. If they hit the settings button in the appbar, they will then go to the settings page listed below.
 
-<img width="300" alt="Profile Page" src="images/Example Profile 1.PNG" align=center>
+<img width="300" alt="Profile Page" src="images/otheruser.png" align=center>
 
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application. As of now, the settings page has a working dark mode switch and a working logout button.
 
@@ -84,9 +86,11 @@ Here is the working logo:
 
 - <b>Dark Mode: </b> Our application implements a work-in-progress dark mode in which the user is able to change the preferences of their application theme within the settings page. The application will then invert colors to a different theme. Right now we have the actual functionality of the dark mode working, but the theme is still not fully implemented.
 
-<img width="300" alt="Dark Mode Example 1" src="images/DarkMode.PNG" align="center">
+<img width="300" alt="Dark Mode Example 1" src="images/darkmode1.png" align="center">
 
-<img width="300" alt="Dark Mode Example 2" src="images/DarkMode2.PNG" align="center">
+<img width="300" alt="Dark Mode Example 2" src="images/dark2.png" align="center">
+
+<img width="300" alt="Dark Mode Example 3" src="images/dark3.png" align="center">
 
 - <b>Friends List Page: </b> This page lists the user's current friends. They can tap to direct message them from this page.
 
