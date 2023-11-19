@@ -21,19 +21,20 @@ Here is the working logo:
 
 - <b>Login Page: </b> When the user opens the app, the login page will be the first page seen. This is where current users will put in their UH email and password used to open their account. After Phase 3, the email provided must match an email in our mock UserList database. This is done by using the Form Builder which enables one to check the current state that the field is at. Implemented Riverpod as a means to update the whole app after login. For example, the current user profile will change based on the email provided when Logging in. Has a "Sign Up" button that'll prompt the user to register for an account on a separate screen.
 
-<img width="300" alt="Login Page" src="images/login_connectuni.png" align=center>
+<img width="300" alt="Login Page" src="images/signin.png" align=center>
 
 - <b>Sign Up Page: </b> From the Login page (via the "Sign Up" button), the user is able to register for a new account. There are four text fields present, each must be filled out before an account can be made. Only when all fields are filled and the two password text fields match, will it switch to the user's Home screen. There are three buttons available to the user: Sign Up, Clear, and Back. The Back button will go back to the Login page, the Clear button will clear all text fields, and the Sign Up button should prompt the user to a Create Profile page.
 
-<img width="300" alt="Sign Up Page" src="images/signup_connectuni.png" align=center>
+<img width="300" alt="Sign Up Page" src="images/register.png" align=center> <img width="300" alt="Verify" src="images/verifyemail.png" align=center>
+
 
 - <b>Create Profile Page: </b> After Signing up, the user is prompted to set up their profile with a username, and selection fields for major, graduation date, interests, as well as groups from currently available groups.
 
-<img width="300" alt="Create Profile Page" src="images/CreateProfile1.png" align=center> <img width="300" alt="Create Profile Page" src="images/CreateProfile2.png" align=center>
+<img width="300" alt="Create Profile Page" src="images/CreateProfile.png" align=center>
 
 - <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at the bottom prompting users to add to their current list of groups. The page also is the first introduction to the application AppBar as well as the Navbar at the bottom, which shows the user the groups, messages, event calendar, and their own profile.
 
-<img width="300" alt="My Groups" src="images/mygroups.png" align=center>
+<img width="300" alt="My Groups" src="images/nogroups.png" align=center>
 
 - <b>Group Chat Page: </b> A user can select a chat from their joined groups which they can then send and recieve messages from other members of that group.
 
