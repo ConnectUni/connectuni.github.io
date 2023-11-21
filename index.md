@@ -61,7 +61,16 @@ Here is the working logo:
 
 - <b>Search People Page: </b> A user can search for other individuals to connect with and can filter by Clubs/Interests/Majors/etc. in which individuals are apart of.
 
-<img width="300" alt="Search for people" src="images/searchpeople.png" align="center"> <img width="300" alt="Other User" src="images/otheruser.png" align="center"> 
+<img width="300" alt="Search for people" src="images/searchpeople.png" align="center"> 
+
+Here is an example of our filter in use:
+
+<img width="300" alt="Search for people" src="images/searchpeople.png" align="center">
+
+
+Clicking on these user profiles will bring you to a profile that allows you to view their information, send them a message, friend them, or view/join their groups.
+
+<img width="300" alt="Other User" src="images/otheruser.png" align="center"> 
 
 
 - <b>Search Events Page: </b> A user can search for events to attend and can filter by Clubs/Interests/Majors/etc. 
@@ -69,15 +78,15 @@ Here is the working logo:
 <img width="300" alt="Search for events" src="images/searchevents.png" align="center">
 
 
-- <b>Create Event Page: </b> Through the search events page, you can navigate to add an event.
+- <b>Create Event Page: </b> Through the search events page, you can navigate to add an event. Since events are linked to groups, the group section of this document is specifically linked to the user's list of groups.
 
 <img width="300" alt="Add Event" src="images/addevent.png" align="center">
 
-- <b>Events Calendar Page: </b> This page displays a calendar to the user which shows the different events that our app is able to host. The user can click on different days in order to get to different events. Eventually we will be able to sort using the sort prompt at the top of the page.
+- <b>Events Calendar Page: </b> This page displays a calendar to the user which shows the different events that our app is able to host. The user can click on different days in order to get to different events. If there are no events for the selected date, the user is prompted to create an event for that day.
 
 <img width="300" alt="Events Calendar" src="images/eventcalendar.png" align=center>
 
-- <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their interests, and the groups they are currently a part of. They are able to edit their profile information from this page. If they hit the settings button in the appbar, they will then go to the settings page listed below.
+- <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their interests, and the groups they are currently a part of. They are able to edit their profile information and interests from this page. If they hit the settings button in the appbar, they will then go to the settings page listed below.
 
 <img width="300" alt="Profile Page" src="images/userprofile.png" align=center> <img width="300" alt="Profile Page" src="images/editinterests.png" align=center> <img width="300" alt="Profile Page" src="images/editprofile.png" align=center>
 
@@ -85,7 +94,7 @@ Here is the working logo:
 
 <img width="300" alt="Settings & Privacy" src="images/SettingsNew.PNG" align="center">
 
-- <b>Dark Mode: </b> Our application implements a work-in-progress dark mode in which the user is able to change the preferences of their application theme within the settings page. The application will then invert colors to a different theme. Right now we have the actual functionality of the dark mode working, but the theme is still not fully implemented.
+- <b>Dark Mode: </b> Our application implements a work-in-progress dark mode in which the user is able to change the preferences of their application theme within the settings page. The application will then invert colors to a different theme.
 
 <img width="300" alt="Dark Mode Example 1" src="images/darkmode1.png" align="center">
 
@@ -93,17 +102,9 @@ Here is the working logo:
 
 <img width="300" alt="Dark Mode Example 3" src="images/dark3.png" align="center">
 
-- <b>Friends List Page: </b> This page lists the user's current friends. They can tap to direct message them from this page.
+- <b>Friends List Page: </b> This page lists the user's current friends. It is not yet fully implemented, but the goal is to let users view their friends. They can also tap to direct message them from this page.
 
 <img width="300" alt="Friends List" src="images/friendslist.PNG" align="center">
-
-- <b>Direct Messages Page: </b> After selecting the inbox on the group info page, the user is led to their direct messages which provides a list of people recently contacted.
-
-<img width="300" alt="DMpage" src="images/dmscreen.png" align="center">
-
-- <b>Message Details Page: </b>When the user taps on a person from their list of contacts, they are led to their chat history.
-
-<img width="300" alt="message details page" src="images/dmdetailscreen.png" align="center">
 
 ## Installation
 Go to [this github repository](https://github.com/ConnectUni/connectuni), click on the green Code button, and click Open with GitHub Desktop.
