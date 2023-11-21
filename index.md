@@ -21,7 +21,7 @@ Here is the working logo:
 
 - <b>Sign In Page: </b> When the user opens the app, the login page will be the first page seen. On this page, users are given the option to enter in their emails and passwords if they already have an account. If they enter an incorrect email, password, or both an error will occur. The user is also given the option to click the register button to go to the Register page, or hit the "Forgotten password?" text to send an email to their account to reset their password.
 
-<img width="300" alt="Login Page" src="images/signin.png" align=center>
+<img width="300" alt="Login Page" src="images/signin.png" align=center><img width="300" alt="Login Page" src="images/ForgottenPass.PNG" align=center>
 
 - <b>Register Page: </b> If the user has not yet created an account, they will be able to go to the register page and create an account by providing an email and a password. There is a second section for a user to confirm their password to ensure that they are typing it correctly the first time. Upon hitting register, the user will be prompted to validate their email and then will be sent to the "Create profile page".
 
@@ -34,21 +34,19 @@ Here is the working logo:
 
 - <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at the bottom prompting users to add to their current list of groups by creating a group. If the user's group list is empty, the user is prompted to join or add to a group to start filling out the page. The page also is the first introduction to the application AppBar as well as the Navbar at the bottom, which shows the user the groups, messages, event calendar, and their own profile.
 
-<img width="300" alt="My Groups" src="images/nogroups.png" align=center>
+<img width="300" alt="My Groups" src="images/nogroups.png" align=center><img width="300" alt="My Groups 2" src="images/someGroups.PNG" align=center>
 
 - <b>Group Chat Page: </b> A user can select a chat from their joined groups which they can then send and recieve messages from other members of that group.
 
-<img width="300" alt="Group Chat Screen" src="images/groupchatscreen.png" align=center>
+<img width="300" alt="Group Chat Screen" src="images/newGroupChatNoMess.PNG" align=center><img width="300" alt="Group Chat Screen" src="images/newGroupChat.PNG" align=center>
 
 - <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping. There will also be a field that shows the group's interests that the user can search upon. At the bottom there will be either a group join or a group leave button depending on whether or not the user is in the group. If the user is a member of a group, they are also given access to an edit button, which is described below.
 
-<img width="300" alt="Group Info Join" src="images/groupinfo.png" align=center>
-
-<img width="300" alt="Group Info Leave" src="images/groupinfo2.png" align=center>
+<img width="300" alt="Group Info Join" src="images/groupinfo.png" align=center><img width="300" alt="Group Info Leave" src="images/groupinfo2.png" align=center>
 
 - <b>Edit Group Page: </b> If a user is a member of a group, they have the option to edit group information using a form. The form is pre-filled with the change-able aspects of the group. When submitted, the group information is updated in the database. There is also a reset buttton that resets all form fields to empty.
 
-<img width="300" alt="Edit Group Page" src="images/EditGroup.PNG" align=center>
+<img width="300" alt="Edit Group Page" src="images/newEditGroup.PNG" align=center>
 
 - <b>Add Group Page: </b> There is also an add group page in which a user is able to create a group in the event that there isn't one made for their intended use already. The fields for this are empty with some placeholder information to guide the user to filling out the correct information. This can be accessed from the search groups page (see below) and also allows the user to refresh the page.
 
@@ -65,8 +63,7 @@ Here is the working logo:
 
 Here is an example of our filter in use:
 
-<img width="300" alt="Search for people" src="images/searchpeople.png" align="center">
-
+<img width="300" alt="Filtered Results" src="images/searchFilter.PNG" align="center"> 
 
 Clicking on these user profiles will bring you to a profile that allows you to view their information, send them a message, friend them, or view/join their groups.
 
@@ -84,15 +81,15 @@ Clicking on these user profiles will bring you to a profile that allows you to v
 
 - <b>Events Calendar Page: </b> This page displays a calendar to the user which shows the different events that our app is able to host. The user can click on different days in order to get to different events. If there are no events for the selected date, the user is prompted to create an event for that day.
 
-<img width="300" alt="Events Calendar" src="images/eventcalendar.png" align=center>
+<img width="300" alt="Events Calendar" src="images/eventcalendar.png" align=center><img width="300" alt="Events Calendar" src="images/eventsCalendarEvent.PNG" align=center>
 
 - <b>User Profile Page: </b> If the user clicks on the profile page on the navbar, they will be presented with this page showing their information as it appears to others, their interests, and the groups they are currently a part of. They are able to edit their profile information and interests from this page. If they hit the settings button in the appbar, they will then go to the settings page listed below.
 
-<img width="300" alt="Profile Page" src="images/userprofile.png" align=center> <img width="300" alt="Profile Page" src="images/editinterests.png" align=center> <img width="300" alt="Profile Page" src="images/editprofile.png" align=center>
+<img width="300" alt="Profile Page" src="images/currentProfileKenji.PNG" align=center> <img width="300" alt="Profile Page" src="images/editinterests.png" align=center> <img width="300" alt="Profile Page" src="images/editprofile.png" align=center>
 
 - <b>Settings: </b> This is the page that the user will see if they want to change their personal preferences related to the application. As of now, the settings page has a working dark mode switch and a working logout button.
 
-<img width="300" alt="Settings & Privacy" src="images/SettingsNew.PNG" align="center">
+<img width="300" alt="Settings & Privacy" src="images/newSettings.PNG" align="center">
 
 - <b>Dark Mode: </b> Our application implements a work-in-progress dark mode in which the user is able to change the preferences of their application theme within the settings page. The application will then invert colors to a different theme.
 
@@ -104,7 +101,7 @@ Clicking on these user profiles will bring you to a profile that allows you to v
 
 - <b>Friends List Page: </b> This page lists the user's current friends. It is not yet fully implemented, but the goal is to let users view their friends. They can also tap to direct message them from this page.
 
-<img width="300" alt="Friends List" src="images/friendslist.PNG" align="center">
+<img width="300" alt="Friends List" src="images/newFriendsPage.PNG" align="center">
 
 ## Installation
 Go to [this github repository](https://github.com/ConnectUni/connectuni), click on the green Code button, and click Open with GitHub Desktop.
