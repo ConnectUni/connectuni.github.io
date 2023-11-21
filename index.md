@@ -19,20 +19,20 @@ Here is the working logo:
   
 <img width="300" alt="Splash Screen" src="images/Splash Screen.PNG" align=center>
 
-- <b>Login Page: </b> When the user opens the app, the login page will be the first page seen. This is where current users will put in their UH email and password used to open their account. After Phase 3, the email provided must match an email in our mock UserList database. This is done by using the Form Builder which enables one to check the current state that the field is at. Implemented Riverpod as a means to update the whole app after login. For example, the current user profile will change based on the email provided when Logging in. Has a "Sign Up" button that'll prompt the user to register for an account on a separate screen.
+- <b>Sign In Page: </b> When the user opens the app, the login page will be the first page seen. On this page, users are given the option to enter in their emails and passwords if they already have an account. If they enter an incorrect email, password, or both an error will occur. The user is also given the option to click the register button to go to the Register page, or hit the "Forgotten password?" text to send an email to their account to reset their password.
 
 <img width="300" alt="Login Page" src="images/signin.png" align=center>
 
-- <b>Sign Up Page: </b> From the Login page (via the "Sign Up" button), the user is able to register for a new account. There are four text fields present, each must be filled out before an account can be made. Only when all fields are filled and the two password text fields match, will it switch to the user's Home screen. There are three buttons available to the user: Sign Up, Clear, and Back. The Back button will go back to the Login page, the Clear button will clear all text fields, and the Sign Up button should prompt the user to a Create Profile page.
+- <b>Register Page: </b> If the user has not yet created an account, they will be able to go to the register page and create an account by providing an email and a password. There is a second section for a user to confirm their password to ensure that they are typing it correctly the first time. Upon hitting register, the user will be prompted to validate their email and then will be sent to the "Create profile page".
 
 <img width="300" alt="Sign Up Page" src="images/register.png" align=center> <img width="300" alt="Verify" src="images/verifyemail.png" align=center>
 
 
-- <b>Create Profile Page: </b> After Signing up, the user is prompted to set up their profile with a username, and selection fields for major, graduation date, interests, as well as groups from currently available groups.
+- <b>Create Profile Page: </b> After Signing up, the user is prompted to set up their profile with a Display Name, a profile picture field, a major field, their projected graduation, and an optional status that describes how they are feeling. Currently the profile picture field is only linked to images that are found in our assets folder, but we are aiming to change this in the future.
 
 <img width="300" alt="Create Profile Page" src="images/createprofile.png" align=center>
 
-- <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at the bottom prompting users to add to their current list of groups. The page also is the first introduction to the application AppBar as well as the Navbar at the bottom, which shows the user the groups, messages, event calendar, and their own profile.
+- <b>Home Page: </b> Upon logging in, the user is shown the Home page displaying a list of groups that the user is currently a part of. There is an add button at the bottom prompting users to add to their current list of groups by creating a group. If the user's group list is empty, the user is prompted to join or add to a group to start filling out the page. The page also is the first introduction to the application AppBar as well as the Navbar at the bottom, which shows the user the groups, messages, event calendar, and their own profile.
 
 <img width="300" alt="My Groups" src="images/nogroups.png" align=center>
 
@@ -40,7 +40,7 @@ Here is the working logo:
 
 <img width="300" alt="Group Chat Screen" src="images/groupchatscreen.png" align=center>
 
-- <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping. At the bottom there will be either a group join or a group leave button depending on whether or not the user is in the group. If the user is a member of a group, they are also given access to an edit button, which is described below.
+- <b>Group Info Page: </b> After a user selects a group from the login page, they will be able to see that specific groups information. This will include the members of that group as well as a brief description of what the user can expect from that grouping. There will also be a field that shows the group's interests that the user can search upon. At the bottom there will be either a group join or a group leave button depending on whether or not the user is in the group. If the user is a member of a group, they are also given access to an edit button, which is described below.
 
 <img width="300" alt="Group Info Join" src="images/groupinfo.png" align=center>
 
