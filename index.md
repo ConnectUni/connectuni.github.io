@@ -103,6 +103,10 @@ Clicking on these user profiles will bring you to a profile that allows you to v
 
 <img width="300" alt="Friends List" src="images/newFriendsPage.PNG" align="center">
 
+## Privacy Policy
+
+To view our Privacy Policy, please visit [this site](https://connectuni.github.io/privacy.github.io/).
+
 ## Installation
 Go to [this github repository](https://github.com/ConnectUni/connectuni), click on the green Code button, and click Open with GitHub Desktop.
 
