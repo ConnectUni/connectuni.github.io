@@ -1,9 +1,9 @@
 # ConnectUni Project Usability Evaluation Design
 
 ## User Goals:
-* Search for another user and add them as a friend
-* Join a Group and send a message in the group chat
-* Join an Event
+* Search for a classmate on campus and add them as a friend.
+* Join a Group you are interested in and send a message in the group chat.
+* Easily find and search for an event to participate in.
 
 ## Scenarios:
 1. Finding a classmate: Pretend you are in a classroom and you want to add a classmate to your ConnectUni account so that you can study with them throughout the semester. Assuming they have a ConnectUni account, add them to be your friend and send them a quick message.
