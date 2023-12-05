@@ -1,10 +1,9 @@
 # ConnectUni Project Usability Evaluation Design
 
 ## User Goals:
-* Search for a classmate on campus and add them as a friend.
-* Join a Group you are fitting your interests and send a message in the group chat.
-* Easily find and search for events to participate in.
-* Create groups and eevents of your their own if they do not exist.
+* User is able to connect with other students easily.
+* User can interact and participate in different groups that fit their interest.
+* User has an easier transition into the social aspect of a college lifestyle.
 
 ## Scenarios:
 1. Finding a classmate: Pretend you are in a classroom and you want to add a classmate to your ConnectUni account so that you can study with them throughout the semester. Assuming they have a ConnectUni account, add them to be your friend and send them a quick message.
@@ -18,5 +17,27 @@
 Important user types for ConnectUni include Incoming Freshmen, Transfer Students, and Seniors. While our app may help incoming freshmen and transfer students the most to connect with their peers, students with senior standing may provide helpful feedback as well due to having the experience to know what is needed for the app. Freshman and transfer students are able to provide vital information to our application as it aims to allow a smoother social transition for university students to branch out and "Connect(with the)Uni". Seniors have likely already been given time to connect with their peers socially in their 4 years at the University and are able to provide feedback now reflecting on whether this app would have been beneficial to their upbringing.
 
 ## Recruitment:
-In our ConnectUni Dev group, we will each reach out to people that we know that may identify with our established user groups. Each dev will be responsible for finding at least 5 users.
+In our ConnectUni Dev group, we will each reach out to people that we know that may identify with our established user groups.
 Within our dev group, we have direct connections to many seniors and freshmen at the University of Hawaii and various other Universities that we can ask to broaden the demographic of our study.
+
+## Consent Form:
+
+## Participant Descriptions:
+
+## Usability Testing:
+
+### Time and Place:
+
+### Script:
+General Usability Testing Script for our Application:
+* Hey [Tester], create your account.
+
+
+### Raw Data:
+
+## Results:
+### Top 3 Usability Problems:
+1. Events not working fully in current implementation.
+2. [Second Usability Problem]
+3. [Third Usability problem]
+
