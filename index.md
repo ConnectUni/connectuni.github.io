@@ -125,6 +125,9 @@ Finally, open the terminal and type:
 ## Development Status
 [Click here to view the ConnectUni Project Board!](https://github.com/orgs/ConnectUni/projects/1/views/7)
 
+## Evaluation Process:
+[Click here to view our Evaluation Design!](https://connectuni.github.io/evaluation.html)
+
 ## Post-Presentation plans:
 Following our presentation on 12/07/2023 and prior to our Final Project submission, we plan on starting to tackle the issues caught by our testers from our usability report.
 Our main focus will be on: 
