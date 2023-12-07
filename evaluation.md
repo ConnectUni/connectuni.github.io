@@ -22,6 +22,8 @@ Within our dev group, we have direct connections to many seniors and freshmen at
 ## Consent Form:
 The consent form used can be found [here](https://docs.google.com/document/d/14fPQbSwQmcPEIrkCradx6-3GMGyNlne2xGfgbVFbO58/edit?usp=sharing).
 
+<img width="700" alt="Consent Form" src="images/Consent Form.PNG" align=center>
+
 
 ## Participant Recruitment:
 Participants were recruited from the ICSpace room where Freshman and Transfer students were asked to evaluate the application. This enabled these students to be able to discuss with one another the concept of the mobile app and whether or not it would be beneficial to their social life.
@@ -35,12 +37,16 @@ Participants were recruited from the ICSpace room where Freshman and Transfer st
 * Participant D:
 * Participant E:
 * Participant F:
-* Participant G:
+* Participant G: Freshman at the University of Hawaii at Manoa. When asked about how they feel on campus comfort-wise answered with "I feel its alright, a lot different than [the social environment] of high school".
+* Participant H: Senior at the University of Hawaii at Manoa. Started attending during the COVID-19 pandemic when all classes were on zoom.
+* Participant I: Freshman at Leeward Community College. Initially also started college during the pandemic but dropped out due to lack of social connections due to zoom-only classes.
 
 ### Time and Place:
 * Testing session for Participant A were conducted at the ICSpace room in person at 2 pm on 12/04/23.
 * Testing sessions for Participants B-F were conducted at the ITC building in person after 3 pm on 12/04/23.
-* Testing session for Participant G was in person at Hamilton Library at 2 pm on 12/06/2023
+* Testing session for Participant G was in-person at Hamilton Library at 12 pm on 12/05/2023.
+* Testing session for Participant H was in-person at Hamilton Library at about 2 pm on 12/05/2023.
+* Testing session for Participant I was in online over discord at around 8 pm on 12/05/2023.
 
 ### Script:
 General Usability Testing Script for our Application:
