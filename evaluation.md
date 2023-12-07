@@ -31,15 +31,15 @@ Participants were recruited from the ICSpace room where Freshman and Transfer st
 ## Usability Testing:
 
 ### Description of Participants:
-* Participant A:
-* Participant B:
-* Participant C:
-* Participant D:
-* Participant E:
-* Participant F:
-* Participant G: Freshman at the University of Hawaii at Manoa. When asked about how they feel on campus comfort-wise answered with "I feel its alright, a lot different than [the social environment] of high school".
-* Participant H: Senior at the University of Hawaii at Manoa. Started attending during the COVID-19 pandemic when all classes were on zoom.
-* Participant I: Freshman at Leeward Community College. Initially also started college during the pandemic but dropped out due to lack of social connections due to zoom-only classes.
+* Participant 1: Senior at the University of Hawaii at Manoa. 
+* Participant 2: Freshman at the University of Hawaii at Manoa. 
+* Participant 3: Freshman at the University of Hawaii at Manoa. 
+* Participant 4: Freshman at the University of Hawaii at Manoa. 
+* Participant 5: Freshman at the University of Hawaii at Manoa. 
+* Participant 6: Transfer Freshman at the University of Hawaii at Manoa. 
+* Participant 7: Freshman at the University of Hawaii at Manoa. When asked about how they feel on campus comfort-wise answered with "I feel its alright, a lot different than [the social environment] of high school".
+* Participant 8: Senior at the University of Hawaii at Manoa. Started attending during the COVID-19 pandemic when all classes were on zoom.
+* Participant 9: Freshman at Leeward Community College. Initially also started college during the pandemic but dropped out due to lack of social connections due to zoom-only classes.
 
 ### Time and Place:
 * Testing session for Participant 1 were conducted at the ICSpace room in person at 2 pm on 12/04/23.
