@@ -99,9 +99,27 @@ Clicking on these user profiles will bring you to a profile that allows you to v
 
 <img width="300" alt="Dark Mode Example 3" src="images/dark3.png" align="center">
 
-- <b>Friends List Page: </b> This page lists the user's current friends. It is not yet fully implemented, but the goal is to let users view their friends. They can also tap to direct message them from this page.
+- <b>Friends List Page: </b> This page lists the user's current friends. They can also tap to direct message them from this page.
 
 <img width="300" alt="Friends List" src="images/newFriendsPage.PNG" align="center">
+
+- <b>Notifications and Friend Requests: </b> Users are now able to send and view friend requests in their profiles. They can view and accept these in the notifications page.
+  
+<img width="300" alt="Friends List" src="images/FR1.PNG" align="center">
+
+<img width="300" alt="Friends List" src="images/FR2.PNG" align="center">
+
+<img width="300" alt="Friends List" src="images/FR3.PNG" align="center">
+
+<img width="300" alt="Friends List" src="images/FR4.PNG" align="center">
+
+- <b>Group Chats: </b> Every group now has a chat associated with it that allows the user to send messages to their peers. They are also able to see the person who sent the message and click on their profile if need be.
+
+<img width="300" alt="Group Chat" src="images/GC1.PNG" align="center">
+
+<img width="300" alt="Group Chat" src="images/GC2.PNG" align="center">
+
+<img width="300" alt="Group Chat" src="images/GC3.PNG" align="center">
 
 ## Privacy Policy
 
