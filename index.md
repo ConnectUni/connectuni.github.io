@@ -117,6 +117,17 @@ Finally, open the terminal and type:
 ## Development Status
 [Click here to view the ConnectUni Project Board!](https://github.com/orgs/ConnectUni/projects/1/views/7)
 
+## Post-Presentation plans:
+Following our presentation on 12/07/2023 and prior to our Final Project submission, we plan on starting to tackle the issues caught by our testers from our usability report.
+Our main focus will be on: 
+1. Events not working fully in the current implementation.
+2. Any image uploading to the application doesn't work.
+3. Any group members are able to edit the group information (need ownership property).
+
+There are some other small UI/database changes that we would like to make to at least make sure our application is able to deliver all of the features that the user can see throughout our application.
+Depending on how timely we are able to fix these UI changes, we will be attempting to conduct more usability evaluations given the time we have between the fix and the final submission.
+There are also some features that we would like to implement past the ICS 466 course that deal with user-retention in our application and giving them a drive to use our application more often.
+
 ## About Us
 
 ### Kenji Sanehira
