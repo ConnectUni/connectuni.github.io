@@ -76,6 +76,7 @@ The application was tested on a team member's laptop where participants would ne
 * Clicked on the top left back arrow>Clicked on the "Add a group" button>Filled out the "Add Group" form>Clicked on "Submit".
 ##### Scenario 5.
 * Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
+
 ---
 ## Participant B: 
 * Conducted: In person on team member's laptop.
@@ -89,6 +90,7 @@ The application was tested on a team member's laptop where participants would ne
 * Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
 ##### Scenario 5.
 * Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
+
 ---
 ## Participant C: 
 * Conducted: In person on team member's laptop.
@@ -102,6 +104,7 @@ The application was tested on a team member's laptop where participants would ne
 * Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
 ##### Scenario 5.
 * Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
+
 ---
 ## Participant D: 
 * Conducted: In person on team member's laptop.
@@ -115,6 +118,7 @@ The application was tested on a team member's laptop where participants would ne
 * Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
 ##### Scenario 5.
 * Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
+
 ---
 ## Participant E: 
 * Conducted: In person on team member's laptop.
@@ -128,6 +132,7 @@ The application was tested on a team member's laptop where participants would ne
 * Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
 ##### Scenario 5.
 * Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Clicked on some event>Tried to click "Join Event" (didn't work).
+
 ---
 ## Participant F: 
 * Conducted: In person on team member's laptop.
@@ -141,6 +146,7 @@ The application was tested on a team member's laptop where participants would ne
 * Clicked on the top left back arrow>Clicked on the "+" button on the Groups page>Filled out the form>Clicked "Submit>Clicked the back arrow>Scrolled down the page to find their new group made>Clicked on that group and sent "ello."
 ##### Scenario 5.
 * Clicked on the info button>Tried clicking on the top right button in the group's info page (didn't work)>Clicked on the top left back arrow twice>Clicked on the "Search" tab on the footer>Scrolled down for a bit and clicked on more groups and exiting back to the Search page>Clicked on the celebration icon on the top>Clicked on Pizza Party event>Tried to click "Join Event" (didn't work).
+
 ---
 ## Participant G: 
 * Conducted: In person on team member's team member's mobile device.
@@ -154,6 +160,7 @@ The application was tested on a team member's laptop where participants would ne
 * Clicked on the top left back arrow>Clicked on the "+" button on the Groups page>Filled out the form>Clicked "Submit>Clicked the back arrow>Scrolled down the page to find their new group made.
 ##### Scenario 5.
 * Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Clicked on an event>Tried to click "Join Event" (didn't work).
+
 ---
 ## Participant H:
 * Conducted: In person on the user's android phone.
@@ -168,6 +175,7 @@ The application was tested on a team member's laptop where participants would ne
 * Clicked on the add button on the group chats page> filled in the add group page for a Mechanical Engineering club > sent a message in the club chat.
 ##### Scenario 5.
 * Clicked on the calendar button > Saw a day with a dot on it and clicked the event > Tried to click the "Join event" button but nothing happened.
+
 ---
 ## Participant I:
 * Conducted: In person on team member's Samsung Galaxy S9.
@@ -182,6 +190,7 @@ The application was tested on a team member's laptop where participants would ne
 * Clicked the back arrow from the chat and hit the search button> clicked the add a group button and filled in information about a "Food lovers" group> Joined the group and sent a message to the chat.
 ##### Scenario 5.
 * Clicked on the calendar button > Saw a day with a dot on it and clicked the event > Tried to click the "Join event" button but nothing happened.
+
 ---
 
 ## Results:
