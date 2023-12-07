@@ -31,22 +31,23 @@ Participants were recruited from the ICSpace room where Freshman and Transfer st
 ## Usability Testing:
 
 ### Description of Participants:
-* Participant 1: Senior at the University of Hawaii at Manoa. 
-* Participant 2: Freshman at the University of Hawaii at Manoa. 
-* Participant 3: Freshman at the University of Hawaii at Manoa. 
-* Participant 4: Freshman at the University of Hawaii at Manoa. 
-* Participant 5: Freshman at the University of Hawaii at Manoa. 
-* Participant 6: Transfer Freshman at the University of Hawaii at Manoa. 
-* Participant 7: Freshman at the University of Hawaii at Manoa. When asked about how they feel on campus comfort-wise answered with "I feel its alright, a lot different than [the social environment] of high school".
-* Participant 8: Senior at the University of Hawaii at Manoa. Started attending during the COVID-19 pandemic when all classes were on zoom.
-* Participant 9: Freshman at Leeward Community College. Initially also started college during the pandemic but dropped out due to lack of social connections due to zoom-only classes.
+* Participant A: Senior at the University of Hawaii at Manoa. 
+* Participant B: Freshman at the University of Hawaii at Manoa. 
+* Participant C: Freshman at the University of Hawaii at Manoa. 
+* Participant D: Freshman at the University of Hawaii at Manoa. 
+* Participant E: Freshman at the University of Hawaii at Manoa. 
+* Participant F: Transfer Freshman at the University of Hawaii at Manoa.
+* Participant G: Freshman at the University of Hawaii at Manoa. 
+* Participant H: Freshman at the University of Hawaii at Manoa. When asked about how they feel on campus comfort-wise answered with "I feel its alright, a lot different than [the social environment] of high school".
+* Participant I: Senior at the University of Hawaii at Manoa. Started attending during the COVID-19 pandemic when all classes were on zoom.
+* Participant J: Freshman at Leeward Community College. Initially also started college during the pandemic but dropped out due to lack of social connections due to zoom-only classes.
 
 ### Time and Place:
-* Testing session for Participant 1 were conducted at the ICSpace room in person at 2 pm on 12/04/23.
-* Testing sessions for Participants 2-6 were conducted at the ITC building in person after 3 pm on 12/04/23.
-* Testing session for Participant 7 was in-person at Hamilton Library at 12 pm on 12/05/2023.
-* Testing session for Participant 8 was in-person at Hamilton Library at about 2 pm on 12/05/2023.
-* Testing session for Participant 9 was in online over discord at around 8 pm on 12/05/2023.
+* Testing session for Participant A were conducted at the ICSpace room in person at 2 pm on 12/04/23.
+* Testing sessions for Participants B-G were conducted at the ITC building in person after 3 pm on 12/04/23.
+* Testing session for Participant H was in-person at Hamilton Library at 12 pm on 12/05/2023.
+* Testing session for Participant I was in-person at Hamilton Library at about 2 pm on 12/05/2023.
+* Testing session for Participant J was in online over discord at around 8 pm on 12/05/2023.
 
 ### Script:
 General Usability Testing Script for our Application:
@@ -64,7 +65,8 @@ General Usability Testing Script for our Application:
 ### Raw Data:
 The application was tested on a team member's laptop where participants would need to perform their testing through the emulator from IntelliJ.
 
-#### Participant 1: 
+#### Participant A: 
+Conducted: In person on team member's laptop.
 ##### Scenario 1. 
 Clicked on the Search tab>Clicked on the ICS 466 group>Clicked on another user's profile>Clicked the "Connect with me!" button.
 ##### Scenario 2.
@@ -76,7 +78,8 @@ Clicked on the top left back arrow>Clicked on the "Add a group" button>Filled ou
 ##### Scenario 5.
 Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
 
-#### Participant 2: 
+#### Participant B: 
+Conducted: In person on team member's laptop.
 ##### Scenario 1. 
 Clicked on the ICS 466 group>Clicked on the top right "info" button>Clicked on another user's profile>Clicked the "Connect with me!" button.
 ##### Scenario 2.
@@ -88,7 +91,8 @@ Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Cl
 ##### Scenario 5.
 Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
 
-#### Participant 3: 
+#### Participant C: 
+Conducted: In person on team member's laptop.
 ##### Scenario 1. 
 Clicked on the ICS 466 group>Clicked on one of the profile pictures in the chat>Clicked the "Connect with me!" button.
 ##### Scenario 2.
@@ -100,7 +104,8 @@ Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Cl
 ##### Scenario 5.
 Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
 
-#### Participant 4: 
+#### Participant D: 
+Conducted: In person on team member's laptop.
 ##### Scenario 1. 
 Clicked on the ICS 466 group>Clicked on the top right "info" button>Clicked on another user's profile>Clicked the "Connect with me!" button.
 ##### Scenario  2.
@@ -112,7 +117,8 @@ Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Cl
 ##### Scenario 5.
 Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
 
-#### Participant 5: 
+#### Participant E: 
+Conducted: In person on team member's laptop.
 ##### Scenario 1. 
 Clicked on the ICS 466 group>Clicked on one of the profile pictures in the chat>Clicked the "Connect with me!" button.
 ##### Scenario 2.
@@ -124,7 +130,8 @@ Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Cl
 ##### Scenario 5.
 Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Clicked on some event>Tried to click "Join Event" (didn't work).
 
-#### Participant 6: 
+#### Participant F: 
+Conducted: In person on team member's laptop.
 ##### Scenario 1. 
 Clicked on the ICS 466 group>Clicked on one of the profile pictures in the chat>Clicked the "Connect with me!" button.
 ##### Scenario 2.
@@ -136,7 +143,8 @@ Clicked on the top left back arrow>Clicked on the "+" button on the Groups page>
 ##### Scenario 5.
 Clicked on the info button>Tried clicking on the top right button in the group's info page (didn't work)>Clicked on the top left back arrow twice>Clicked on the "Search" tab on the footer>Scrolled down for a bit and clicked on more groups and exiting back to the Search page>Clicked on the celebration icon on the top>Clicked on Pizza Party event>Tried to click "Join Event" (didn't work).
 
-#### Participant 7: 
+#### Participant G: 
+Conducted: In person on team member's team member's mobile device.
 ##### Scenario 1. 
 Clicked on the ICS 466 group>Clicked on the top left back arrow>Clicked on the Profile tab>Clicked on the friends list icon>Tried searching their own name>Clicked on the top right "+" icon (didn't work)>Clicked on the top left back arrow>Clicked on the Search icon>Clicked on the Groups page>Clicked on the "+" button>Clicked on the top left back arrow>Clicked on the ICS 466 group>Gave up.
 ##### Scenario 2.
@@ -148,10 +156,26 @@ Clicked on the top left back arrow>Clicked on the "+" button on the Groups page>
 ##### Scenario 5.
 Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Clicked on an event>Tried to click "Join Event" (didn't work).
 
+#### Participant H:
+Conducted: In person on the user's Samsung Galaxy S9.
+Note: Had a very difficult time logging in likely due to connection problems.
+##### Scenario 1. 
+Clicked on the Search Page > Clicked on the Search for People Button > Looked up some of their actual friends but didn't find any > Clicked on the "Caleb Smith" profile > Clicked on "Connect with me!" > Clicked the message button > Typed an introductory message and sent it.
+##### Scenario 2.
+Clicked on the back arrow from the users message page > Scrolled through the user groups and joined the ICS 312 Group >  Attempted to click on the ICS 312 group but nothing happened.
+##### Scenario 3.
+Clicked on the back arrow from Caleb's page> clicked on the "Groups Page"> didn't see chess page, so clicked on search page and searched for a chess club> Didn't find a chess club so made "Chess Club" group > Joined the group and had trouble finding the chat button > Went back to group chat page and sent a message.
+##### Scenario 4. 
+Clicked on the add button on the group chats page> filled in the add group page for a Mechanical Engineering club > sent a message in the club chat.
+##### Scenario 5.
+Clicked on the calendar button > Saw a day with a dot on it and clicked the event > Tried to click the "Join event" button but nothing happened.
+
 ## Results:
 ### Top 3 Usability Problems:
 1. Events not working fully in the current implementation.
 2. [Second Usability Problem]
 3. [Third Usability problem]
+
+
 
 
