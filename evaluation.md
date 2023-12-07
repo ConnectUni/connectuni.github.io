@@ -20,16 +20,27 @@ In our ConnectUni Dev group, we will each reach out to people that we know that 
 Within our dev group, we have direct connections to many seniors and freshmen at the University of Hawaii and various other Universities that we can ask to broaden the demographic of our study.
 
 ## Consent Form:
-The consent form used: [ConnectUni Testers Consent Form](ConnectUni Testers Consent Form.docx)
+The consent form used can be found [here](https://docs.google.com/document/d/14fPQbSwQmcPEIrkCradx6-3GMGyNlne2xGfgbVFbO58/edit?usp=sharing).
+
 
 ## Participant Recruitment:
 Participants were recruited from the ICSpace room where Freshman and Transfer students were asked to evaluate the application. This enabled these students to be able to discuss with one another the concept of the mobile app and whether or not it would be beneficial to their social life.
 
 ## Usability Testing:
 
+### Description of Participants:
+* Participant A:
+* Participant B:
+* Participant C:
+* Participant D:
+* Participant E:
+* Participant F:
+* Participant G:
+
 ### Time and Place:
-Testing session for Participant 1 were conducted at the ICSpace room in person at 2 pm on 12/04/23.
-Testing sessions for Participants 2-6 were conducted at the ITC building in person after 3 pm on 12/04/23.
+* Testing session for Participant A were conducted at the ICSpace room in person at 2 pm on 12/04/23.
+* Testing sessions for Participants B-F were conducted at the ITC building in person after 3 pm on 12/04/23.
+* Testing session for Participant G was in person at Hamilton Library at 2 pm on 12/06/2023
 
 ### Script:
 General Usability Testing Script for our Application:
@@ -45,9 +56,11 @@ General Usability Testing Script for our Application:
 * Thank you so much for participating in our usability test. To close out, please fill out this google form and let us know what we can improve with our application!
 
 
+
 ### Raw Data:
+
+#### Participant B: 
 The application was tested on a team member's laptop where participants would need to perform their testing through the emulator from IntelliJ.
-#### Participant 2: 
 ##### Scenario 1. 
 Clicked on the ICS 466 group>Clicked on the top right "info" button>Clicked on another user's profile>Clicked the "Connect with me!" button
 ##### Scenario 2.
