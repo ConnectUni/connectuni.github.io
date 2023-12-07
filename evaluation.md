@@ -40,14 +40,12 @@ Participants were recruited from the ICSpace room where Freshman and Transfer st
 * Participant G: Freshman at the University of Hawaii at Manoa. 
 * Participant H: Freshman at the University of Hawaii at Manoa. When asked about how they feel on campus comfort-wise answered with "I feel its alright, a lot different than [the social environment] of high school".
 * Participant I: Senior at the University of Hawaii at Manoa. Started attending during the COVID-19 pandemic when all classes were on zoom.
-* Participant J: Freshman at Leeward Community College. Initially also started college during the pandemic but dropped out due to lack of social connections due to zoom-only classes.
 
 ### Time and Place:
 * Testing session for Participant A were conducted at the ICSpace room in person at 2 pm on 12/04/23.
 * Testing sessions for Participants B-G were conducted at the ITC building in person after 3 pm on 12/04/23.
 * Testing session for Participant H was in-person at Hamilton Library at 12 pm on 12/05/2023.
 * Testing session for Participant I was in-person at Hamilton Library at about 2 pm on 12/05/2023.
-* Testing session for Participant J was in online over discord at around 8 pm on 12/05/2023.
 
 ### Script:
 General Usability Testing Script for our Application:
@@ -158,7 +156,7 @@ The application was tested on a team member's laptop where participants would ne
 * Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Clicked on an event>Tried to click "Join Event" (didn't work).
 ---
 ## Participant H:
-* Conducted: In person on the user's Samsung Galaxy S9.
+* Conducted: In person on the user's android phone.
   * Note: Had a very difficult time logging in likely due to connection problems.
 ##### Scenario 1. 
 * Clicked on the Search Page > Clicked on the Search for People Button > Looked up some of their actual friends but didn't find any > Clicked on the "Caleb Smith" profile > Clicked on "Connect with me!" > Clicked the message button > Typed an introductory message and sent it.
@@ -170,12 +168,36 @@ The application was tested on a team member's laptop where participants would ne
 * Clicked on the add button on the group chats page> filled in the add group page for a Mechanical Engineering club > sent a message in the club chat.
 ##### Scenario 5.
 * Clicked on the calendar button > Saw a day with a dot on it and clicked the event > Tried to click the "Join event" button but nothing happened.
+---
+## Participant I:
+* Conducted: In person on team member's Samsung Galaxy S9.
+  * Note: Connection to database was extremely slow on my phone (similar to participant H's issues).
+##### Scenario 1. 
+* Clicked on the Search Page > Clicked on the Search for People Button > Saw "Kenji Sanehira" and clicked on profile > Clicked on "Connect with me!" > Clicked the message button > Typed in a message and sent it.
+##### Scenario 2.
+* Clicked on the back arrow from the users message page > Scrolled through the user groups and clicked join on the ICS 466 group
+##### Scenario 3.
+* Clicked on the back arrow from Kenji's page> clicked on the "Groups Page"> didn't see chess page, so clicked on search page and searched for a chess club>> Joined the group titled "Chess club" and had trouble finding the chat button > Went back to group chat page and sent a message.
+##### Scenario 4. 
+* Clicked the back arrow from the chat and hit the search button> clicked the add a group button and filled in information about a "Food lovers" group> Joined the group and sent a message to the chat.
+##### Scenario 5.
+* Clicked on the calendar button > Saw a day with a dot on it and clicked the event > Tried to click the "Join event" button but nothing happened.
+---
 
 ## Results:
 ### Top 3 Usability Problems:
 1. Events not working fully in the current implementation.
-2. [Second Usability Problem]
-3. [Third Usability problem]
+2. Any image uploading to the application doesn't work.
+3. Any group members are able to edit the group information (need ownership property).
+
+### Other Usability Problems found:
+* Other user profile -> User card is broken (Displays user ID rather than name and is not clickable).
+* Group profile page shows "Professor" as a field when a group doesn't need to be a professor.
+* Add Group submit button doesn't send the user anywhere afterwards (prompts the user to make the form again).
+* Groups and events cannot be deleted.
+* Groups info page should have a link to the group's chat.
+* New Messages feature does not reflect the new messages in the chat.
+
 
 
 
