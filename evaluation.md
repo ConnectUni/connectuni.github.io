@@ -65,110 +65,111 @@ General Usability Testing Script for our Application:
 ### Raw Data:
 The application was tested on a team member's laptop where participants would need to perform their testing through the emulator from IntelliJ.
 
-#### Participant A: 
-Conducted: In person on team member's laptop.
+---
+## Participant A: 
+* Conducted: In person on team member's laptop.
 ##### Scenario 1. 
-Clicked on the Search tab>Clicked on the ICS 466 group>Clicked on another user's profile>Clicked the "Connect with me!" button.
+* Clicked on the Search tab>Clicked on the ICS 466 group>Clicked on another user's profile>Clicked the "Connect with me!" button.
 ##### Scenario 2.
-Stayed on the same other user's profile>Scrolled down the screen because the first group had a "Leave" button>Clicked on one of the "Join" buttons of the groups.
+* Stayed on the same other user's profile>Scrolled down the screen because the first group had a "Leave" button>Clicked on one of the "Join" buttons of the groups.
 ##### Scenario 3.
-Clicked the top left back arrow button until back at the "Search for Groups" page>Clicked on "Filter">Scrolled down all the interests>Clicked on "Cancel">Used the search bar and typed in "chess">Saw "Add a group" and clicked that button because there's no chess group>Filled out the "Add Group" form>Clicked on "Submit">Gave up because can't find the group they created.
+* Clicked the top left back arrow button until back at the "Search for Groups" page>Clicked on "Filter">Scrolled down all the interests>Clicked on "Cancel">Used the search bar and typed in "chess">Saw "Add a group" and clicked that button because there's no chess group>Filled out the "Add Group" form>Clicked on "Submit">Gave up because can't find the group they created.
 ##### Scenario 4. 
-Clicked on the top left back arrow>Clicked on the "Add a group" button>Filled out the "Add Group" form>Clicked on "Submit".
+* Clicked on the top left back arrow>Clicked on the "Add a group" button>Filled out the "Add Group" form>Clicked on "Submit".
 ##### Scenario 5.
-Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
-
-#### Participant B: 
-Conducted: In person on team member's laptop.
+* Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
+---
+## Participant B: 
+* Conducted: In person on team member's laptop.
 ##### Scenario 1. 
-Clicked on the ICS 466 group>Clicked on the top right "info" button>Clicked on another user's profile>Clicked the "Connect with me!" button.
+* Clicked on the ICS 466 group>Clicked on the top right "info" button>Clicked on another user's profile>Clicked the "Connect with me!" button.
 ##### Scenario 2.
-Stayed on the same other user's profile>Scrolled down the page>Clicked on one of the "Join" buttons of the groups.
+* Stayed on the same other user's profile>Scrolled down the page>Clicked on one of the "Join" buttons of the groups.
 ##### Scenario 3.
-Clicked the top left back arrow button until back at the "Groups" page>Clicked on the "Search" icon on the footer>Clicked on "Filter">Asked, "Where's chess?">Used the search bar and typed in "chess">Saw "Add a group" and clicked that button>Filled out form>Clicked "Submit>Clicked the back arrow>Clicked on the Groups tab>Clicked on the group and sent "hi."
+* Clicked the top left back arrow button until back at the "Groups" page>Clicked on the "Search" icon on the footer>Clicked on "Filter">Asked, "Where's chess?">Used the search bar and typed in "chess">Saw "Add a group" and clicked that button>Filled out form>Clicked "Submit>Clicked the back arrow>Clicked on the Groups tab>Clicked on the group and sent "hi."
 ##### Scenario 4. 
-Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
+* Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
 ##### Scenario 5.
-Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
-
-#### Participant C: 
-Conducted: In person on team member's laptop.
+* Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
+---
+## Participant C: 
+* Conducted: In person on team member's laptop.
 ##### Scenario 1. 
-Clicked on the ICS 466 group>Clicked on one of the profile pictures in the chat>Clicked the "Connect with me!" button.
+* Clicked on the ICS 466 group>Clicked on one of the profile pictures in the chat>Clicked the "Connect with me!" button.
 ##### Scenario 2.
-Stayed on the same other user's profile>Scrolled down the page>Clicked on one of the "Join" buttons of the groups.
+* Stayed on the same other user's profile>Scrolled down the page>Clicked on one of the "Join" buttons of the groups.
 ##### Scenario 3.
-Clicked the top left back arrow button until back at the "Groups" page>Clicked on the "Search" icon on the footer>Used the search bar and typed in "chess">Saw "Add a group" and clicked that button>Filled out form>Clicked "Submit>Clicked the back arrow>Clicked on the Groups tab>Clicked on the group and sent "g", "h", "jjj", and a few emojis.
+* Clicked the top left back arrow button until back at the "Groups" page>Clicked on the "Search" icon on the footer>Used the search bar and typed in "chess">Saw "Add a group" and clicked that button>Filled out form>Clicked "Submit>Clicked the back arrow>Clicked on the Groups tab>Clicked on the group and sent "g", "h", "jjj", and a few emojis.
 ##### Scenario 4. 
-Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
+* Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
 ##### Scenario 5.
-Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
-
-#### Participant D: 
-Conducted: In person on team member's laptop.
+* Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
+---
+## Participant D: 
+* Conducted: In person on team member's laptop.
 ##### Scenario 1. 
-Clicked on the ICS 466 group>Clicked on the top right "info" button>Clicked on another user's profile>Clicked the "Connect with me!" button.
+* Clicked on the ICS 466 group>Clicked on the top right "info" button>Clicked on another user's profile>Clicked the "Connect with me!" button.
 ##### Scenario  2.
-Stayed on the same other user's profile>Clicked on one of the "Join" buttons of the groups.
+* Stayed on the same other user's profile>Clicked on one of the "Join" buttons of the groups.
 ##### Scenario 3.
-Clicked the top left back arrow button until back at the "Groups" page>Clicked on the "Search" icon on the footer>Clicked on "Filter">Scrolled down interests>Clicked on "Cancel">Used search bar>Typed in "chess">Saw "Add a group" and clicked that button>Filled out form>Clicked "Submit>Clicked the back arrow>Clicked on the Groups tab>Clicked on the group and sent "ello everyone Welcome to ICS 425."
+* Clicked the top left back arrow button until back at the "Groups" page>Clicked on the "Search" icon on the footer>Clicked on "Filter">Scrolled down interests>Clicked on "Cancel">Used search bar>Typed in "chess">Saw "Add a group" and clicked that button>Filled out form>Clicked "Submit>Clicked the back arrow>Clicked on the Groups tab>Clicked on the group and sent "ello everyone Welcome to ICS 425."
 ##### Scenario 4. 
-Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
+* Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
 ##### Scenario 5.
-Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
-
-#### Participant E: 
-Conducted: In person on team member's laptop.
+* Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Tried to click "Join Event" (didn't work).
+---
+## Participant E: 
+* Conducted: In person on team member's laptop.
 ##### Scenario 1. 
-Clicked on the ICS 466 group>Clicked on one of the profile pictures in the chat>Clicked the "Connect with me!" button.
+* Clicked on the ICS 466 group>Clicked on one of the profile pictures in the chat>Clicked the "Connect with me!" button.
 ##### Scenario 2.
-Stayed on the same other user's profile>Clicked on one of the "Join" buttons of the groups.
+* Stayed on the same other user's profile>Clicked on one of the "Join" buttons of the groups.
 ##### Scenario 3.
-Clicked the top left back arrow button until back at the "Groups" page>Clicked on the "Search" icon on the footer>Used search bar>Typed in "chess">Saw "Add a group" and clicked that button>Filled out form>Clicked "Submit>Clicked the back arrow>Clicked on the Groups tab>Clicked on the group and sent "hello."
+* Clicked the top left back arrow button until back at the "Groups" page>Clicked on the "Search" icon on the footer>Used search bar>Typed in "chess">Saw "Add a group" and clicked that button>Filled out form>Clicked "Submit>Clicked the back arrow>Clicked on the Groups tab>Clicked on the group and sent "hello."
 ##### Scenario 4. 
-Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
+* Clicked on the top left back arrow>Clicked on the "Search" icon on the footer>Clicked on the "Add a group" button>Created a group.
 ##### Scenario 5.
-Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Clicked on some event>Tried to click "Join Event" (didn't work).
-
-#### Participant F: 
-Conducted: In person on team member's laptop.
+* Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Clicked on some event>Tried to click "Join Event" (didn't work).
+---
+## Participant F: 
+* Conducted: In person on team member's laptop.
 ##### Scenario 1. 
-Clicked on the ICS 466 group>Clicked on one of the profile pictures in the chat>Clicked the "Connect with me!" button.
+* Clicked on the ICS 466 group>Clicked on one of the profile pictures in the chat>Clicked the "Connect with me!" button.
 ##### Scenario 2.
-Stayed on the same other user's profile>Clicked on one of the "Join" buttons of the groups.
+* Stayed on the same other user's profile>Clicked on one of the "Join" buttons of the groups.
 ##### Scenario 3.
-Clicked the top left back arrow button until back at the "Groups" page>Clicked on the "+" button on the Groups page>Filled out the form>Clicked "Submit>Clicked the back arrow>Scrolled down the page to find their chess group made>Clicked on that group and sent "message."
+* Clicked the top left back arrow button until back at the "Groups" page>Clicked on the "+" button on the Groups page>Filled out the form>Clicked "Submit>Clicked the back arrow>Scrolled down the page to find their chess group made>Clicked on that group and sent "message."
 ##### Scenario 4. 
-Clicked on the top left back arrow>Clicked on the "+" button on the Groups page>Filled out the form>Clicked "Submit>Clicked the back arrow>Scrolled down the page to find their new group made>Clicked on that group and sent "ello."
+* Clicked on the top left back arrow>Clicked on the "+" button on the Groups page>Filled out the form>Clicked "Submit>Clicked the back arrow>Scrolled down the page to find their new group made>Clicked on that group and sent "ello."
 ##### Scenario 5.
-Clicked on the info button>Tried clicking on the top right button in the group's info page (didn't work)>Clicked on the top left back arrow twice>Clicked on the "Search" tab on the footer>Scrolled down for a bit and clicked on more groups and exiting back to the Search page>Clicked on the celebration icon on the top>Clicked on Pizza Party event>Tried to click "Join Event" (didn't work).
-
-#### Participant G: 
-Conducted: In person on team member's team member's mobile device.
+* Clicked on the info button>Tried clicking on the top right button in the group's info page (didn't work)>Clicked on the top left back arrow twice>Clicked on the "Search" tab on the footer>Scrolled down for a bit and clicked on more groups and exiting back to the Search page>Clicked on the celebration icon on the top>Clicked on Pizza Party event>Tried to click "Join Event" (didn't work).
+---
+## Participant G: 
+* Conducted: In person on team member's team member's mobile device.
 ##### Scenario 1. 
-Clicked on the ICS 466 group>Clicked on the top left back arrow>Clicked on the Profile tab>Clicked on the friends list icon>Tried searching their own name>Clicked on the top right "+" icon (didn't work)>Clicked on the top left back arrow>Clicked on the Search icon>Clicked on the Groups page>Clicked on the "+" button>Clicked on the top left back arrow>Clicked on the ICS 466 group>Gave up.
+* Clicked on the ICS 466 group>Clicked on the top left back arrow>Clicked on the Profile tab>Clicked on the friends list icon>Tried searching their own name>Clicked on the top right "+" icon (didn't work)>Clicked on the top left back arrow>Clicked on the Search icon>Clicked on the Groups page>Clicked on the "+" button>Clicked on the top left back arrow>Clicked on the ICS 466 group>Gave up.
 ##### Scenario 2.
-After I showed them how to: Stayed on the same user's profile>Scrolled down the groups>Clicked on one of the "Join" buttons of the groups.
+* After I showed them how to: Stayed on the same user's profile>Scrolled down the groups>Clicked on one of the "Join" buttons of the groups.
 ##### Scenario 3.
-Clicked the top left back arrow button until back to the "Groups" page>Clicked on the "+" button on the Groups page>Filled out the form>Clicked "Submit>Clicked the back arrow>Scrolled down the page to find their chess group made>Clicked on that group and sent "hi."
+* Clicked the top left back arrow button until back to the "Groups" page>Clicked on the "+" button on the Groups page>Filled out the form>Clicked "Submit>Clicked the back arrow>Scrolled down the page to find their chess group made>Clicked on that group and sent "hi."
 ##### Scenario 4. 
-Clicked on the top left back arrow>Clicked on the "+" button on the Groups page>Filled out the form>Clicked "Submit>Clicked the back arrow>Scrolled down the page to find their new group made.
+* Clicked on the top left back arrow>Clicked on the "+" button on the Groups page>Filled out the form>Clicked "Submit>Clicked the back arrow>Scrolled down the page to find their new group made.
 ##### Scenario 5.
-Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Clicked on an event>Tried to click "Join Event" (didn't work).
-
-#### Participant H:
-Conducted: In person on the user's Samsung Galaxy S9.
-Note: Had a very difficult time logging in likely due to connection problems.
+* Clicked on the top left back arrow>Clicked on the "Calendar" icon on the footer>Clicked on a date with a dot on the day>Clicked on an event>Tried to click "Join Event" (didn't work).
+---
+## Participant H:
+* Conducted: In person on the user's Samsung Galaxy S9.
+  * Note: Had a very difficult time logging in likely due to connection problems.
 ##### Scenario 1. 
-Clicked on the Search Page > Clicked on the Search for People Button > Looked up some of their actual friends but didn't find any > Clicked on the "Caleb Smith" profile > Clicked on "Connect with me!" > Clicked the message button > Typed an introductory message and sent it.
+* Clicked on the Search Page > Clicked on the Search for People Button > Looked up some of their actual friends but didn't find any > Clicked on the "Caleb Smith" profile > Clicked on "Connect with me!" > Clicked the message button > Typed an introductory message and sent it.
 ##### Scenario 2.
-Clicked on the back arrow from the users message page > Scrolled through the user groups and joined the ICS 312 Group >  Attempted to click on the ICS 312 group but nothing happened.
+* Clicked on the back arrow from the users message page > Scrolled through the user groups and joined the ICS 312 Group >  Attempted to click on the ICS 312 group but nothing happened.
 ##### Scenario 3.
-Clicked on the back arrow from Caleb's page> clicked on the "Groups Page"> didn't see chess page, so clicked on search page and searched for a chess club> Didn't find a chess club so made "Chess Club" group > Joined the group and had trouble finding the chat button > Went back to group chat page and sent a message.
+* Clicked on the back arrow from Caleb's page> clicked on the "Groups Page"> didn't see chess page, so clicked on search page and searched for a chess club> Didn't find a chess club so made "Chess Club" group > Joined the group and had trouble finding the chat button > Went back to group chat page and sent a message.
 ##### Scenario 4. 
-Clicked on the add button on the group chats page> filled in the add group page for a Mechanical Engineering club > sent a message in the club chat.
+* Clicked on the add button on the group chats page> filled in the add group page for a Mechanical Engineering club > sent a message in the club chat.
 ##### Scenario 5.
-Clicked on the calendar button > Saw a day with a dot on it and clicked the event > Tried to click the "Join event" button but nothing happened.
+* Clicked on the calendar button > Saw a day with a dot on it and clicked the event > Tried to click the "Join event" button but nothing happened.
 
 ## Results:
 ### Top 3 Usability Problems:
