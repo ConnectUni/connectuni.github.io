@@ -33,7 +33,16 @@ Testing sessions for Participants 2-6 were conducted at the ITC building in pers
 
 ### Script:
 General Usability Testing Script for our Application:
-* Hey [Tester], create your account.
+* Hey [Tester], create a ConnectUni account and set it up with your information. The photos field isn't yet fully implemented, so you can put in whatever you want for that field.
+* After that is done, try to fill your profile with things you are interested in.
+* Suppose you changed your major, can you change this on your profile?
+* Notice how you aren't in any groups yet. Look up a group you would like to join. If it doesn't exist, make it!
+* Within the group, see if there are any people that interest you. If there are, send a friend request.
+* Say you accidentally joined another group on accident. Leave that group if you don't want to be in it anymore.
+* Let's say you're trying to search based on your interests. Go to the search tab and find someone based on "Computer Science".
+* A group you just joined might not know about their newest member. Send an introductory message to the group chat.
+* You notice a classmate from one class in a group that you are in! Send them a direct message saying that you have just created a ConnectUni account!
+* Thank you so much for participating in our usability test. To close out, please fill out this google form and let us know what we can improve with our application!
 
 
 ### Raw Data:
