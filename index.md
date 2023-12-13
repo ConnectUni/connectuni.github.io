@@ -167,6 +167,13 @@ There are also some features that we would like to implement past the ICS 466 co
 
 Hey! I am Kenji Sanehira and I am currently a Computer Science senior at the University of Hawaii at Manoa. I would like to apply my knowledge from school related to Computer Science into the workforce. I am also the stage manager for the international-tour of the musical "Peace on Your Wings". In my free time, I enjoy 3D printing, going to the gym, and playing video games. Learning about mobile application development for ConnectUni has been a really fun and educational experience that I hope to apply skills from in the future. For this application I was able to design the profile and group info pages, create the ConnectUni logo, implemented the Events Calendar, create form pages for creating and editing objects, as well as implemented our own version of a direct messaging / group chat program.
 
+#### Contributions
+- Created and designed the profile and group info pages.
+- Created the ConnectUni Logo and Splash Screen.
+- Implemented Events Calendar and dark mode switcher.
+- Created forms for creating and editing users and groups.
+- Implemented our own version of direct messaging / group chatting.
+
 [Click here to view Kenji's LinkedIn Profile](https://www.linkedin.com/in/kenji-sanehira/)
 
 ### Michelle Ho
@@ -202,4 +209,5 @@ Hi! I am Jia, a senior studying Computer Science at University of Hawaii at Mano
 - In the final stages of the app, I implemented events (edit events page, event forms, and updating event info once a user joins)
 - Implemented FlexColorScheme to allow for dark mode and light mode.
 - Fixing general bugs (EX: routing between pages, UI)
+- 
 [Jia's LinkedIn Profile](https://www.linkedin.com/in/jiahui-liao-62008222b/)
