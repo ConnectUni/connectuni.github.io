@@ -195,3 +195,10 @@ Aloha! I am Raphael, and I am a senior studying for my B.S. in Computer Science.
 <img width="200" alt="Jia Headshot" src="images/jiapfp.JPG">
 
 Hi! I am Jia, a senior studying Computer Science at University of Hawaii at Manoa. I am also the coding officer for the Game Development club as well as marketing manager for the Association for Computing Machinery (ACM) at UHM. I like to draw, crochet, and play video games in my free time. I hope to learn skills that I can apply in the future and have fun doing it. By working on ConnectUni, I hope to support students to build a fun and lasting community for themselves.
+
+#### Contributions
+- Creating initial pages including create event, create profile, direct message page and chat screen.
+- Standardizing mock databases (ChatDB) and implementing the events provider.
+- In the final stages of the app, I implemented events (edit events page, updating event info once a user joins)
+- Implemented FlexColorScheme to allow for dark mode and light mode.
+- Fixing general bugs (EX: routing between pages, UI)
