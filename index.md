@@ -199,6 +199,6 @@ Hi! I am Jia, a senior studying Computer Science at University of Hawaii at Mano
 #### Contributions
 - Creating initial pages including create event, create profile, direct message page and chat screen.
 - Standardizing mock databases (ChatDB) and implementing the events provider.
-- In the final stages of the app, I implemented events (edit events page, updating event info once a user joins)
+- In the final stages of the app, I implemented events (edit events page, event forms, and updating event info once a user joins)
 - Implemented FlexColorScheme to allow for dark mode and light mode.
 - Fixing general bugs (EX: routing between pages, UI)
