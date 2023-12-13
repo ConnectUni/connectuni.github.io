@@ -172,7 +172,16 @@ Hey! I am Kenji Sanehira and I am currently a Computer Science senior at the Uni
 ### Michelle Ho
 <img width="200" alt="Michelle Headshot" src="images/michelle.png">
 
-Hi everyone! My name is Michelle and I'm currently a senior Computer Science student pursuing my B.S. degree. I'd describe myself as a competitive person who loves to stay active. Whether it be sports or puzzles, I find myself competing with family and friends all of the time. With that said, I welcome all sorts of challenges one may have! I'm glad to be a part of a friendly team working together on the ConnectUni project. I know that this project will prove to be worth it when we're all standing proud, presenting our new app.
+Hi everyone! My name is Michelle and I'm currently a senior Computer Science student pursuing my B.S. degree. I'd describe myself as a competitive person who loves to stay active. Whether it be sports or puzzles, I find myself competing with family and friends all of the time. With that said, I welcome all sorts of challenges one may have! I'm glad to be a part of a friendly team working together on the ConnectUni project. 
+
+#### Contributions
+In this project, I was able to learn about the Flutter framework through:
+- Creating the initial Login/Signup pages with manual authentication from Riverpod
+- Standardizing mock databases (UserDB, MessagesDB, etc.)
+- Ensuring routing works properly - enable a "back arrow" only when desired
+- Fixing general bugs (EX: broken group chat page when a user leaves a group)
+
+[Michelle's LinkedIn Profile](https://www.linkedin.com/in/michelle-ho-4949a0262/)
 
 ### Raphael Bumanlag
 
