@@ -202,3 +202,4 @@ Hi! I am Jia, a senior studying Computer Science at University of Hawaii at Mano
 - In the final stages of the app, I implemented events (edit events page, event forms, and updating event info once a user joins)
 - Implemented FlexColorScheme to allow for dark mode and light mode.
 - Fixing general bugs (EX: routing between pages, UI)
+[Jia's LinkedIn Profile](https://www.linkedin.com/in/jiahui-liao-62008222b/)
