@@ -144,9 +144,7 @@ Our application development is split up into the following sections:
 [Click here to view our Evaluation Design!](https://connectuni.github.io/evaluation.html)
 
 ## Deployment:
-Our application is deployed on the Google Play Store and can be found here: 
-
-[Click here to view our Application on the Google Play Store!](https://play.google.com/store/apps/details?id=com.connectuni.connectuni&hl=en-US&ah=FEh_CeHQPXa7GgoDDt96qZL4AXc&pli=1)
+Our application is deployed on the Google Play Store and can be found by searching "com.connectuni.connectuni" in the Google Play Store.
 
 ## Post-ICS466 plans:
 Following our application's lifecycle throughout our ICS 466 Course, we plan on improving our application based on the Usability Design evaluation feedback.
