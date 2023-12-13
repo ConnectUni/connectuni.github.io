@@ -123,13 +123,25 @@ Finally, open the terminal and type:
 `flutter run`
 
 ## Development Status
-[Click here to view the ConnectUni Project Board!](https://github.com/orgs/ConnectUni/projects/1/views/7)
+Our application development is split up into the following sections:
 
-## Evaluation Process:
+* [Future Plans](https://github.com/orgs/ConnectUni/projects/1/views/8)
+* [Phase 5](https://github.com/orgs/ConnectUni/projects/1/views/11)
+* [Phase 4](https://github.com/orgs/ConnectUni/projects/1/views/10)
+* [Phase 3](https://github.com/orgs/ConnectUni/projects/1/views/9)
+* [Phase 2](https://github.com/orgs/ConnectUni/projects/1/views/7)
+* [Phase 1](https://github.com/orgs/ConnectUni/projects/1/views/1)
+
+## Evaluation Process / Usability Testing:
 [Click here to view our Evaluation Design!](https://connectuni.github.io/evaluation.html)
 
-## Post-Presentation plans:
-Following our presentation on 12/07/2023 and prior to our Final Project submission, we plan on starting to tackle the issues caught by our testers from our usability report.
+## Deployment:
+Our application is deployed on the Google Play Store and can be found here: 
+
+[Click here to view our Application on the Google Play Store!](https://play.google.com/store/apps/details?id=com.connectuni.connectuni&hl=en-US&ah=FEh_CeHQPXa7GgoDDt96qZL4AXc&pli=1)
+
+## Post-ICS466 plans:
+Following our application's lifecycle throughout our ICS 466 Course, we plan on improving our application based on the Usability Design evaluation feedback.
 Our main focus will be on: 
 1. Events not working fully in the current implementation.
 2. Any image uploading to the application doesn't work.
@@ -145,7 +157,9 @@ There are also some features that we would like to implement past the ICS 466 co
 
 <img width="200" alt="Kenji Headshot" src="images/Pfp.jpg">
 
-Hey! I am Kenji Sanehira and I am currently a Computer Science senior at the University of Hawaii at Manoa. I would like to apply my knowledge from school related to Computer Science into the workforce. I am also the stage manager for the international-tour of the musical "Peace on Your Wings". In my free time, I enjoy 3D printing, going to the gym, and playing video games. Learning about mobile application development for ConnectUni has been a really fun and educational experience that I hope to apply skills from in the future.
+Hey! I am Kenji Sanehira and I am currently a Computer Science senior at the University of Hawaii at Manoa. I would like to apply my knowledge from school related to Computer Science into the workforce. I am also the stage manager for the international-tour of the musical "Peace on Your Wings". In my free time, I enjoy 3D printing, going to the gym, and playing video games. Learning about mobile application development for ConnectUni has been a really fun and educational experience that I hope to apply skills from in the future. For this application I was able to design the profile and group info pages, create the ConnectUni logo, implemented the Events Calendar, create form pages for creating and editing objects, as well as implemented our own version of a direct messaging / group chat program.
+
+[Click here to view Kenji's LinkedIn Profile](https://www.linkedin.com/in/kenji-sanehira/)
 
 ### Michelle Ho
 <img width="200" alt="Michelle Headshot" src="images/michelle.png">
