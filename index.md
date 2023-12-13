@@ -15,8 +15,8 @@ Below, you can find the different pages that make up our current application imp
 Here is the working logo:
 ![LOGO](https://github.com/ConnectUni/connectuni.github.io/assets/97561440/207a847e-8e82-4ef5-957a-235a7530b9aa)
 
-- <b>Splash Screen: </b> Upon clicking on the app, the user is presented with a splash screen of our logo, which hopes to combine the idea of connecting university students. Connect (USB Cable) and Uni (The graduation cap).
-  
+- <b>Splash Screen: </b> Upon clicking on the app, the user is presented with a splash screen of our logo, which hopes to combine the idea of connecting university students. Connect (USB Cable) and Uni (The graduation cap). 
+
 <img width="300" alt="Splash Screen" src="images/Splash Screen.PNG" align=center>
 
 - <b>Sign In Page: </b> When the user opens the app, the login page will be the first page seen. On this page, users are given the option to enter in their emails and passwords if they already have an account. If they enter an incorrect email, password, or both an error will occur. The user is also given the option to click the register button to go to the Register page, or hit the "Forgotten password?" text to send an email to their account to reset their password.
@@ -78,6 +78,14 @@ Clicking on these user profiles will bring you to a profile that allows you to v
 - <b>Create Event Page: </b> Through the search events page, you can navigate to add an event. Since events are linked to groups, the group section of this document is specifically linked to the user's list of groups.
 
 <img width="300" alt="Add Event" src="images/addevent.png" align="center">
+
+- <b>Event Info Page:</b> The user is able to view the event information and are given a prompt to join. If they are not in the group associated with the event, they are instead prompted to join the group.
+
+<img width="300" src="images/eventinfojoined.png"> <img width="300" src="images/eventinfonotjoined.png">
+
+- <b>Edit Event Page:</b> When the user is in the group associated with the event, they are able to edit it.
+
+<img width="300" src="images/editevent.png" align="center">
 
 - <b>Events Calendar Page: </b> This page displays a calendar to the user which shows the different events that our app is able to host. The user can click on different days in order to get to different events. If there are no events for the selected date, the user is prompted to create an event for that day.
 
