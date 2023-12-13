@@ -181,6 +181,8 @@ In this project, I was able to learn about the Flutter framework through:
 - Ensuring routing works properly - enable a "back arrow" only when desired
 - Fixing general bugs (EX: broken group chat page when a user leaves a group)
 
+I was also able to learn about the deployment process as I was in charge of deploying our application to the Google Play store.
+
 [Michelle's LinkedIn Profile](https://www.linkedin.com/in/michelle-ho-4949a0262/)
 
 ### Raphael Bumanlag
