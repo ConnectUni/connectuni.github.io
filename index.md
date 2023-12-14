@@ -196,6 +196,22 @@ I was also able to learn about the deployment process as I was in charge of depl
 
 Aloha! I am Raphael, and I am a senior studying for my B.S. in Computer Science. I am an aspiring software engineer and desire to work as a backend developer. I enjoy surfing, rollerblading, and weightlifting on my free time. I consider myself to be a very social student which is what drives me to develop a mobile app that enables other students, especially students who are less social or students in a new environment, to connect with other students in similar classes or interests!
 
+#### Contributions
+ - Designed the mock-up for searching for groups/people, group chat page, and the friends list page then later implemented those mock-up pages.
+ - Implemented the navigation bar and the navigation functionality between the multiple search pages, also implemented the search for events pages.
+ - Helped design and development of the data structures of our app (Users, Groups, Events, Messages, Chats, Notifications).
+ - Developed state management solutions to our app using riverpod for the search and filter functionality on the multiple search pages.
+ - Designed and developed the profile page that displays other users.
+ - Migrated the entire app from using our local database to using firebase by updating all current riverpod providers.
+ - Helped with the development of our app's chat ui.
+ - Implemented friend requests and direct messages between users.
+ - Implemented the functionality for a user to delete their own account.
+
+This project introduced many learning opportunities in the development of mobile applications and also development as well. 
+If I were to highlight one take away from this project, it would be learning state management solutions for mobile applications using riverpod.
+
+[Raphael's LinkedIn Profile](https://www.linkedin.com/in/raphaelbumanlag/)
+
 ### Jiahui Liao
 <img width="200" alt="Jia Headshot" src="images/jiapfp.JPG">
 
@@ -207,5 +223,5 @@ Hi! I am Jia, a senior studying Computer Science at University of Hawaii at Mano
 - In the final stages of the app, I implemented events (edit events page, event forms, and updating event info once a user joins)
 - Implemented FlexColorScheme to allow for dark mode and light mode.
 - Fixing general bugs (EX: routing between pages, UI)
-- 
+
 [Jia's LinkedIn Profile](https://www.linkedin.com/in/jiahui-liao-62008222b/)
