@@ -202,13 +202,13 @@ Aloha! I am Raphael, and I am a senior studying for my B.S. in Computer Science.
  - Helped design and development of the data structures of our app (Users, Groups, Events, Messages, Chats, Notifications).
  - Developed state management solutions to our app using riverpod for the search and filter functionality on the multiple search pages.
  - Designed and developed the profile page that displays other users.
- - Migrated the entire app from using our local database to using firebase by updating all current riverpod providers.
+ - Migrated the entire app from using our local database to using Firebase by updating all current Riverpod providers.
  - Helped with the development of our app's chat ui.
  - Implemented friend requests and direct messages between users.
  - Implemented the functionality for a user to delete their own account.
 
-This project introduced many learning opportunities in the development of mobile applications and also development as well. 
-If I were to highlight one take away from this project, it would be learning state management solutions for mobile applications using riverpod.
+This project introduced many learning opportunities in the development of mobile applications and also development in general as well. 
+If I were to highlight one take away from this project, it would be learning state management solutions for mobile applications using Riverpod.
 
 [Raphael's LinkedIn Profile](https://www.linkedin.com/in/raphaelbumanlag/)
 
